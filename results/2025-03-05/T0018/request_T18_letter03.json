@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-5-sonnet-20241022",
-    "duration": 3.496692419052124,
-    "timestamp": "2025-03-05T18:10:34.773085",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"sender_persons\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"send_date\": [\"1926-03-24\"],\n    \"receiver_persons\": [\"P. Christ-Wackernagel\", \"Paravicini, Christ & Co.\"]\n}",
-    "finish_reason": "stop"
-}

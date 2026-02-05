@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 5.594197750091553,
-    "timestamp": "2025-05-23T11:19:58.204039",
-    "text": "{\n    \"letter_title\": [\"Geschäftsleitung der Internationalen Ausstellung für Binnenschifffahrt und Wasserkraftnutzung Basel\"],\n    \"send_date\": [\"1925-06-26\"],\n    \"sender_persons\": [\"Basler Personenschifffahrtsgesellschaft Basel\"],\n    \"receiver_persons\": [\"O. Ritter\"]\n}",
-    "finish_reason": "stop"
-}

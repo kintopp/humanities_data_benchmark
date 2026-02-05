@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-flash",
-    "duration": 7.8799097537994385,
-    "timestamp": "2025-04-09T22:13:23.742145",
-    "text": "```json\n{\n  \"letter_title\": [\"null\"],\n  \"sender_persons\": [\"Basler Rheinschiffahrt Aktiengesellschaft\"],\n  \"send_date\": [\"1932-10-04\"],\n  \"receiver_persons\": [\"Herrn Dr. Max Vischer\"]\n}\n```\n",
-    "finish_reason": "stop"
-}

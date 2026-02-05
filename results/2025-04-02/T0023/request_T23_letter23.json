@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 7.8399622440338135,
-    "timestamp": "2025-04-02T21:11:58.710069",
-    "text": "```json\n{\n    \"letter_title\": [\"Betrifft Kauf 'Rheinfelden'\"],\n    \"send_date\": [\"1928-04-03\"],\n    \"sender_persons\": [\"Rheinschiffahrt-Aktiengesellschaft\"],\n    \"receiver_persons\": [\"Basler Personenschiffahrtsgesellschaft\"]\n}\n```",
-    "finish_reason": "stop"
-}

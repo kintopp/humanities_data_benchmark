@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash-lite",
-    "duration": 5.911227703094482,
-    "timestamp": "2025-09-05T11:07:10.763954",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musehold\",\n    \"first_name\": \"Walter\"\n  },\n  \"publication\": {\n    \"title\": \"Beitrag zum Wirkungsmechanismus des Azetylcholins.\",\n    \"year\": 1939,\n    \"place\": \"Berlin\",\n    \"pages\": \"19\",\n    \"publisher\": \"Ebering\",\n    \"format\": \"8º\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Berlin\",\n    \"year\": 1939\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"B 1939, 24, 626\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

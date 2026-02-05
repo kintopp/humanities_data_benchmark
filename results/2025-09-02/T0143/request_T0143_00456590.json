@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-5-sonnet-20241022",
-    "duration": 6.0452330112457275,
-    "timestamp": "2025-09-03T16:12:53.620860",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Penttinen\",\n    \"first_name\": \"Yrjö\"\n  },\n  \"publication\": {\n    \"title\": \"Sotasanomat. Inkeriläinen kansanruno ja sen kansainvälistä taustaa\",\n    \"year\": 1947,\n    \"place\": \"Helsinki\",\n    \"pages\": \"267\",\n    \"publisher\": \"\",\n    \"format\": \"8:o\",\n    \"reprint_note\": \"(Suomalaisen Kirjallisuuden Seuran Toimituksia 232.)\"\n  },\n  \"examination\": {\n    \"place\": \"Hels. Phil.\",\n    \"year\": 1947\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"48 AT\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

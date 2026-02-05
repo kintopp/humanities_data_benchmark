@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 3.9405598640441895,
-    "timestamp": "2025-09-03T18:54:45.989457",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last",
-    "finish_reason": "stop"
-}

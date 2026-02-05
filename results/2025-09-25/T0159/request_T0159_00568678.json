@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.515838146209717,
-    "timestamp": "2025-09-25T20:41:25.918069",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Siebler\",\n    \"first_name\": \"Heinz-Ulrich\"\n  },\n  \"publication\": {\n    \"title\": \"Wirtschaftstheorie, Wettbewerbspolitik und das Gesetz gegen Wettbewerbsbeschränkungen. Begründung und Begründbarkeit neoliberaler Wettbewerbspolitik\",\n    \"year\": 1966,\n    \"place\": \"Frankfurt am Main\",\n    \"pages\": \"180\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1966,6060\",\n    \"subjects\": \"Kartell(Kartellrecht).Deutschland/ S Jur Diss\"\n  }\n}",
-    "finish_reason": "stop"
-}

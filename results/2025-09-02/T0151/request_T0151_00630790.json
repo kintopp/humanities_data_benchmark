@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.169701814651489,
-    "timestamp": "2025-09-05T10:57:19.515668",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Viteles\",\n    \"first_name\": \"Morris\"\n  },\n  \"publication\": {\n    \"title\": \"Job specifications and diagnostic tests of job competency designed for the auditing division of a street railway Company (A psychological study in industrial guidance.\",\n    \"year\": 1922,\n    \"place\": \"Philadelphia\",\n    \"pages\": \"38\",\n    \"publisher\": \"\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Philadelphia\",\n    \"year\": 1922\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"23 AT\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

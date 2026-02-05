@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "mistral-medium-2508",
-    "duration": 1.7814300060272217,
-    "timestamp": "2025-09-26T08:54:03.308925",
-    "text": "{\n  \"metadata\": {\n    \"send_date\": [\"1932-12-21\"],\n    \"letter_title\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"sender_persons\": [null],\n    \"receiver_persons\": [\"Basler Personenschiffahrtsgesellschaft\"]\n  }\n}",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 7.335837125778198,
-    "timestamp": "2025-09-03T18:59:46.932855",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γρηγόριος Παλαμᾶς μέγας δομέστικος τῆς Δύσεως καὶ τὸ ὑπ᾽ αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτόκου τῆς Πετριτζονίτισσης\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"135-210\",\n    \"publisher\": \"typ. B. G. Teubneri\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"(Aus: Dissertationes Ienenses IV.)\"\n  },\n  \"examination\": {\n    \"place\": \"Jena\",\n    \"year\": 1888\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Phil. Fak., Inaug.-Diss.\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

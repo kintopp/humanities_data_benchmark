@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 13.512503862380981,
-    "timestamp": "2025-09-05T12:43:12.311657",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Weiß\",\n    \"first_name\": \"Edith\"\n  },\n  \"publication\": {\n    \"title\": \"Natur und Landschaft bei Théophile Gautier erläutert an Hand seiner Reisebeschreibungen.\",\n    \"year\": 1937,\n    \"place\": \"Würzburg\",\n    \"pages\": \"55\",\n    \"publisher\": \"Becker\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Würzburg\",\n    \"year\": 1937\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"DN: B 1937, 17, 240\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

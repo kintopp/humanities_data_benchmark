@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.086179971694946,
-    "timestamp": "2025-04-10T08:08:17.195936",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1938-04-23\"],\n    \"sender_persons\": [\"Ferdinand Rudolf von Bissing\"],\n    \"receiver_persons\": [\"Basler Rheinschifffahrt A.G.\"]\n}\n```",
-    "finish_reason": "stop"
-}

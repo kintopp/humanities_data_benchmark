@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 18.39416217803955,
-    "timestamp": "2025-08-14T15:37:36.284409",
-    "text": "```json\n{\n    \"letter_title\": [\n        null\n    ],\n    \"sender_persons\": [\n        null\n    ],\n    \"send_date\": [\n        \"1932-09-23\"\n    ],\n    \"receiver_persons\": [\n        null\n    ]\n}\n```",
-    "finish_reason": "stop"
-}

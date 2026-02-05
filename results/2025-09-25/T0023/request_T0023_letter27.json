@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 2.267861843109131,
-    "timestamp": "2025-09-25T20:27:02.025178",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1928-04-23\"],\n    \"sender_persons\": [\"Rheinschiffahrt-Aktiengesellschaft\", \"Hochachtend Basler\"],\n    \"receiver_persons\": [\"Herrn Oettinger\", \"Verkehrsbüreau, Basel\"]\n}",
-    "finish_reason": "stop"
-}

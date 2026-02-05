@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-1-20250805",
-    "duration": 3.489596366882324,
-    "timestamp": "2025-08-13T13:31:18.981341",
-    "text": "```json\n{\n    \"letter_title\": [null],\n    \"send_date\": [\"1928-05-02\"],\n    \"sender_persons\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"receiver_persons\": [\"Dr. Max Vischer\"]\n}\n```",
-    "finish_reason": "stop"
-}

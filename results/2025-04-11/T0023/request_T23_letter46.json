@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 6.91234016418457,
-    "timestamp": "2025-04-10T07:06:22.020611",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1929-05-27\"],\n    \"sender_persons\": [\"Basler Verkehrs-Vereinheiten-Kartell\"],\n    \"receiver_persons\": [\"Herr F. Ed. Schwyz\", \"E. Adler\", \"Kaiseraugst\"]\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.90510630607605,
-    "timestamp": "2025-09-03T21:26:38.162741",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Willert\",\n    \"first_name\": \"Christa\"\n  },\n  \"publication\": {\n    \"title\": \"Die Therapie des Morbus haemolyticus neonatorum und ihre Erfolge\",\n    \"year\": 1956,\n    \"place\": \"Berlin\",\n    \"pages\": \"109\",\n    \"publisher\": \"Med. Fak. Humboldt-Univ\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"[Masch'schr. vervielfält.]\"\n  },\n  \"examination\": {\n    \"place\": \"Diss. Univ. Berlin\",\n    \"year\": 1956\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss. Med.\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Erythroblastosis\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

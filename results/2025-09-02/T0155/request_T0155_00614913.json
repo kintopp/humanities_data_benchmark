@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 18.914759635925293,
-    "timestamp": "2025-09-05T12:26:22.213881",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Treichler\",\n    \"first_name\": \"Karl Erich\"\n  },\n  \"publication\": {\n    \"title\": \"Doppeltypische Verträge. Mit besonderer Berücksichtigung des Hausmeistervertrages. ⟨Ein Beitrag zur Lehre der gemischten Verträge.⟩\",\n    \"year\": 1919,\n    \"place\": \"Greifswald\",\n    \"pages\": \"45\",\n    \"publisher\": \"Abel\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Greifswald\",\n    \"year\": 1919\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 19. 571\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

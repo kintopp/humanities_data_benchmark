@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 5.97062611579895,
-    "timestamp": "2025-09-03T16:35:51.803554",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Passot\",\n    \"first_name\": \"Émile\"\n  },\n  \"publication\": {\n    \"title\": \"Quelques considérations sur l'adénite inguinale et sur son traitement\",\n    \"year\": 1868,\n    \"place\": \"Strasbourg\",\n    \"pages\": \"39\",\n    \"publisher\": \"\",\n    \"format\": \"\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Strasbourg\",\n    \"year\": 1868\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.méd 3e série, tome 6\",\n    \"publication_number\": \"No 130\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

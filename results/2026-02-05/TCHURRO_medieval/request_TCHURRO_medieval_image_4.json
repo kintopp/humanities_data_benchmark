@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, 1 folio side, good condition.</PhysicalDescription>\n    <Description>Excerpt from a historical chronicle or record.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>18</PageNumber>\n    </Header>\n    <Body>\n      <Paragraph>\n        <Line>Der groff von swartzburg</Line>\n        <Line>vnd sust all ander ritter</Line>\n        <Line>vnd knecht wolten mit</Line>\n        <Line>dar den ir was enteilvast</Line>\n        <Line>siech usgenomen her Jacob</Line>\n        <Line>von Hategart vnd hans</Line>\n        <Line>von Letchenberg Ritter</Line>\n        <Line>Die zeden werend gern</Line>\n        <Line>mit mir gesin aber der</Line>\n        <Line>patron wolt unser mit</Line>\n        <Line>beiten So der merteil mit</Line>\n        <Line>dar wolt vnd also musten</Line>\n        <Line>wir mit grossem vnwillen</Line>\n        <Line>dann̄ scheiden den wir</Line>\n        <Line>mit dem patron vnd</Line>\n        <Line>och den brüderen dar</Line>\n        <Line>umb hattend ze zipren</Line>\n        <Line>wachset dz zuker</Line>\n      </Paragraph>\n      <MarginalNote placement=\"right_margin\">\n        <Line>Saccharū</Line>\n        <Line>in Cypro</Line>\n        <Line>naseiti</Line>\n      </MarginalNote>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 36.54,
+    "timestamp": "2026-02-05T13:56:48.714437",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, 1 folio side, good condition.\nExcerpt from a historical chronicle or record.\nLatin\n18\nDer groff von swartzburg\nvnd sust all ander ritter\nvnd knecht wolten mit\ndar den ir was enteilvast\nsiech usgenomen her Jacob\nvon Hategart vnd hans\nvon Letchenberg Ritter\nDie zeden werend gern\nmit mir gesin aber der\npatron wolt unser mit\nbeiten So der merteil mit\ndar wolt vnd also musten\nwir mit grossem vnwillen\ndann̄ scheiden den wir\nmit dem patron vnd\noch den brüderen dar\numb hattend ze zipren\nwachset dz zuker\nSaccharū\nin Cypro\nnaseiti",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.265,
+        "cer": 0.793
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

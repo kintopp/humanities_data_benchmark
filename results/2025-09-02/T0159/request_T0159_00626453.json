@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.869278192520142,
-    "timestamp": "2025-09-03T21:21:47.011930",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Vène\",\n    \"first_name\": \"Louis\"\n  },\n  \"publication\": {\n    \"title\": \"Étude sur les délires post-opératoires\",\n    \"year\": 1891,\n    \"place\": \"Paris\",\n    \"pages\": \"62\",\n    \"publisher\": \"\",\n    \"format\": \"in-4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1891\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"N° 220\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

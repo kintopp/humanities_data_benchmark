@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-1-20250805",
-    "duration": 3.422508716583252,
-    "timestamp": "2025-08-13T13:40:10.844837",
-    "text": "Looking",
-    "finish_reason": "stop"
-}

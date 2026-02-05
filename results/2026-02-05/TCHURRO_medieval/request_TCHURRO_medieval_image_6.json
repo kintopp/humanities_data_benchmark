@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, single folio side, good condition.</PhysicalDescription>\n    <Description>Inventory or list of goods, possibly related to a church or abbey, with quantities and locations.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Body>\n      <List type=\"inventory\">\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t dean patron iij grossen</Line>\n          <Line>fuor sin zerrung</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t ze emas ein grossen</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t ze Iherusalen i gross ze</Line>\n          <Line>kurtisig von den eselen</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t dem cousul v gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t in den tempel ij gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t ze betlehem ein gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t ze sant Iohans ein gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t wider ze Iherusalem ein</Line>\n          <Line>gros ze curtisig aber i gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t wider in dean tempel iij</Line>\n          <Line>gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t ze dean jordan xij gros</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t den eselen ze lon</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t aber ein gros ze purisig</Line>\n        </Item>\n        <Item>\n          <Line><Initial type=\"simple\">I</Initial>t aber ze Iherusalem i gros.</Line>\n        </Item>\n      </List>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 51.81,
+    "timestamp": "2026-02-05T13:58:21.379257",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, single folio side, good condition.\nInventory or list of goods, possibly related to a church or abbey, with quantities and locations.\nLatin\nI\nt dean patron iij grossen\nfuor sin zerrung\nI\nt ze emas ein grossen\nI\nt ze Iherusalen i gross ze\nkurtisig von den eselen\nI\nt dem cousul v gros\nI\nt in den tempel ij gros\nI\nt ze betlehem ein gros\nI\nt ze sant Iohans ein gros\nI\nt wider ze Iherusalem ein\ngros ze curtisig aber i gros\nI\nt wider in dean tempel iij\ngros\nI\nt ze dean jordan xij gros\nI\nt den eselen ze lon\nI\nt aber ein gros ze purisig\nI\nt aber ze Iherusalem i gros.",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.758,
+        "cer": 0.506
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

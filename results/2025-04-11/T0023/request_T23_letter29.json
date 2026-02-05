@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 9.22169041633606,
-    "timestamp": "2025-04-10T07:05:18.393390",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1933-04-26\"],\n    \"sender_persons\": [\"Rudolf Jäggi\"],\n    \"receiver_persons\": [\"Max Göttinger\"]\n}\n```",
-    "finish_reason": "stop"
-}

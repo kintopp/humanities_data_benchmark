@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 6.229217767715454,
-    "timestamp": "2025-09-03T19:07:36.393363",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"SRIBER\",\n    \"first_name\": \"André\"\n  },\n  \"publication\": {\n    \"title\": \"Dépistage et prophylaxie de la tuberculose dans les écoles de la Seine par l'emploi périodique des cuti- et percuti-réactions à la tuberculine...\",\n    \"year\": 1939,\n    \"place\": \"Paris\",\n    \"pages\": \"44\",\n    \"publisher\": \"A. Legrand\",\n    \"format\": \"In-8\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1939\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Th. Paris. 13704\",\n    \"publication_number\": \"N° 1008\",\n    \"subjects\": \"Thèse de médecine\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

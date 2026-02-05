@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.538438320159912,
-    "timestamp": "2025-09-05T10:49:37.199658",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"SPÉDER\",\n    \"first_name\": \"\"\n  },\n  \"publication\": {\n    \"title\": \"De t'hydrate de chloral.\",\n    \"year\": 1887,\n    \"place\": \"Montpellier\",\n    \"pages\": \"34 p.\",\n    \"publisher\": \"\",\n    \"format\": \"in-4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Montpellier\",\n    \"year\": 1886\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"№ 405\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,0 +1,157 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Single printed page, likely from a newspaper or gazette, with a decorative initial.</PhysicalDescription>\n    <Description>Advertisements and notices, page 20.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>20</PageNumber>\n    </Header>\n    <Body>\n      <Paragraph>\n        <Line>16. Bey Hrn. Rudolf Ramſperger an der Huth-</Line>\n        <Line>gaß iſt extra guter Holländer-Taback in bleyer-</Line>\n        <Line>nen Pfund-Büchſen à 10 Bazen, wie auch</Line>\n        <Line>guter St. Vincent à 8 Btz. zu haben.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>17. Wo guter Art groſſe Bohnen zum Setzen,</Line>\n        <Line>und kleine weiſſe dito zum Kochen in billigem</Line>\n        <Line>Preis zu haben, iſt im Berichthaus ohne Ent-</Line>\n        <Line>geldt zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>18. Zwei Baretlein oder Profeſſor-Hüth, wie auch</Line>\n        <Line>ein ganz neuer Caſtor-Huth, mittelmäßiger</Line>\n        <Line>Gröſſe, im Berichthaus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>19. Bey Hrn. Burkhardt zum Rieſen ſind extra</Line>\n        <Line>neue groſſe Italiänische Feigen, dito groſſe</Line>\n        <Line>Meertrauben mit und ohne Stiel, Haſelnuß,</Line>\n        <Line>dürre Morcheln, feiner Chocoladen, alles in</Line>\n        <Line>billigem Preis zu haben.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>20. Zwoͤlf Säck neuer Waizen in billigem Preis,</Line>\n        <Line>im Berichthaus ohne Entgeldt zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>21. Bey Hrn. Jacob Grimm Buchbinder iſt zu</Line>\n        <Line>haben: Ein Kriegs-Atlas von 65 theils Land-</Line>\n        <Line>Karten, Städten, Plans von Bataillen und</Line>\n        <Line>Belagerungen des jetzigen Kriegs. 2) Die</Line>\n        <Line>Welt in einer Nuß mit Kupfern. 3) Die</Line>\n        <Line>Durchlauchtige Welt, 4 Theil mit Waapen.</Line>\n        <Line>4) Journal du Camp de Compiègne avec fi-</Line>\n        <Line>gures.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>22. Zwei ſaubere franzöſiſche Bether in ein Wirths-</Line>\n        <Line>Haus auf das Land oder in ein Bad dienlich,</Line>\n        <Line>ohnentgeldtlich im Berichthaus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>23. Eine Behauſung in der Aeſchener Vorſtadt</Line>\n        <Line>mit 4 Stuben, 5 Kammern ſamt einer groſ-</Line>\n        <Line>ſen Werkſtatt, Eſtrig und einem ſchönen ge-</Line>\n        <Line>wölbten Keller und Garten, weshalb ſich bey</Line>\n        <Line>Hrn. Jacob Mäglin dem Weinmann anzu-</Line>\n        <Line>melden.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>24. Ein Freund, welcher circa 600 Seſter Hanf-</Line>\n        <Line>Saamen anhero liefern könnte, möchte aber</Line>\n        <Line>ſolchen vorhero verkauft wiſſen, offerirt ſelbi-</Line>\n        <Line>gen dahero in billigem Preis, im Berichthaus</Line>\n        <Line>zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>25. Wo guter alter weiſſer Wein zu haben, iſt</Line>\n        <Line>bey Mſtr. Michael Fuchs dem Küfer zu ver-</Line>\n        <Line>nehmen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>26. Circa 6. Saumt extra guter alter röther</Line>\n        <Line>Poſteiner Wein, ſo gut als Neuenburger oder</Line>\n        <Line>Burgunder, in billigem Preis, im Bericht-</Line>\n        <Line>haus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>27. Zwei Stücklein weiſſen Wein von 1760. à</Line>\n        <Line>8 Pfund 10 ß der Saumt im einten, und à</Line>\n        <Line>8 Pfund im andern, wovon nach Belieben zu</Line>\n        <Line>haben, im Berichthaus ohne Entgeldt zu er-</Line>\n        <Line>fragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>28. Ein Stock Heu ab 3 Thänen Matten vorm</Line>\n        <Line>Riechener-Thor oderhalb der Schorenbruck.</Line>\n        <Line>Ferner ein Stücklein von 57 Saumten rothen</Line>\n        <Line>Bölliger-Wein von 1760. ſchön roth- und lau-</Line>\n        <Line>ter, im Berichthaus ohne Entgeldt zu erfra-</Line>\n        <Line>gen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>29. Auf E. E. Zunft zum Bären ſind wiederum</Line>\n        <Line>neue Saure Rüben in billigem Preis zu haben.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>30. Ein roth Scharlachen Camiſol und Hoſen in</Line>\n        <Line>billigem Preis, im Berichthaus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>31. Im Offenburger-Hof iſt wohlverwährter</Line>\n        <Line>Bau zu haben.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>32. Ein Brennhaüſlein bey der Steinen-Mühlin</Line>\n        <Line>mit aller Kommlichkeit, im Berichthaus ohne</Line>\n        <Line>Entgeldt zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>33. Bey weme rother und weiſſer Burgunder,</Line>\n        <Line>wie auch Muscat-Wein, Piecenweiß wegen</Line>\n        <Line>Mangel Platzes, wie auch roth und weiſſer</Line>\n        <Line>1753ger Margräfer Wein in billigem Preis zu</Line>\n        <Line>haben, iſt im Berichthaus ohne Entgeldt zu</Line>\n        <Line>erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>34. Feine heitergelbe Hamburger-Strick-Wollen</Line>\n        <Line>das Pfund à 6 Pfund, wo dieſelbe Pfundweiß</Line>\n        <Line>zu haben, iſt im Berichthaus ohne Entgeldt zu</Line>\n        <Line>erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>35. Herrn Hofzach des Siegrists Behauſung im</Line>\n        <Line>Spiegelgäſtlein mit 4 Stuben, 3 Kammern ꝛc.</Line>\n        <Line>iſt entweder zu verkaufen, oder ſamethaft zu</Line>\n        <Line>verleihen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>36. Weiſſe und rothe Margräfer-Weine von</Line>\n        <Line>1760. wovon in billigem Preis nach Belieben</Line>\n        <Line>zu haben, im Berichthaus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>37. Ein Mannenſitz in St. Peters Kirch auf dem</Line>\n        <Line>Letner. Item ein grün Tombeau-Bethlein</Line>\n        <Line>mit grünen wellenen Umhängen, in billigem</Line>\n        <Line>Preis, im Berichthaus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>38. Ein Hausſchlitten mit einem ſchönen Bild</Line>\n        <Line>und Zugehördti in billigem Preis, im Bericht-</Line>\n        <Line>haus zu erfragen.</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>39. Der Bärenfelſer-Hof zu St. Peter, mit</Line>\n        <Line>Garten, Stallung, Keller ꝛc. wie der Augen-</Line>\n        <Line>ſchein zeigen wird. In Ermanglung eines</Line>\n        <Line>Käufers</Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 120.6,
+    "timestamp": "2026-02-05T15:07:40.240214",
+    "parsed": {
+        "advertisements": [
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "20"
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "16. Bey Hrn. Rudolf Ramſperger an der Huth-\ngaß iſt extra guter Holländer-Taback in bleyer-\nnen Pfund-Büchſen à 10 Bazen, wie auch\nguter St. Vincent à 8 Btz. zu haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "17. Wo guter Art groſſe Bohnen zum Setzen,\nund kleine weiſſe dito zum Kochen in billigem\nPreis zu haben, iſt im Berichthaus ohne Ent-\ngeldt zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "18. Zwei Baretlein oder Profeſſor-Hüth, wie auch\nein ganz neuer Caſtor-Huth, mittelmäßiger\nGröſſe, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "19. Bey Hrn. Burkhardt zum Rieſen ſind extra\nneue groſſe Italiänische Feigen, dito groſſe\nMeertrauben mit und ohne Stiel, Haſelnuß,\ndürre Morcheln, feiner Chocoladen, alles in\nbilligem Preis zu haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "20. Zwoͤlf Säck neuer Waizen in billigem Preis,\nim Berichthaus ohne Entgeldt zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "21. Bey Hrn. Jacob Grimm Buchbinder iſt zu\nhaben: Ein Kriegs-Atlas von 65 theils Land-\nKarten, Städten, Plans von Bataillen und\nBelagerungen des jetzigen Kriegs. 2) Die\nWelt in einer Nuß mit Kupfern. 3) Die\nDurchlauchtige Welt, 4 Theil mit Waapen.\n4) Journal du Camp de Compiègne avec fi-\ngures."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "22. Zwei ſaubere franzöſiſche Bether in ein Wirths-\nHaus auf das Land oder in ein Bad dienlich,\nohnentgeldtlich im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "23. Eine Behauſung in der Aeſchener Vorſtadt\nmit 4 Stuben, 5 Kammern ſamt einer groſ-\nſen Werkſtatt, Eſtrig und einem ſchönen ge-\nwölbten Keller und Garten, weshalb ſich bey\nHrn. Jacob Mäglin dem Weinmann anzu-\nmelden."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "24. Ein Freund, welcher circa 600 Seſter Hanf-\nSaamen anhero liefern könnte, möchte aber\nſolchen vorhero verkauft wiſſen, offerirt ſelbi-\ngen dahero in billigem Preis, im Berichthaus\nzu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "25. Wo guter alter weiſſer Wein zu haben, iſt\nbey Mſtr. Michael Fuchs dem Küfer zu ver-\nnehmen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "26. Circa 6. Saumt extra guter alter röther\nPoſteiner Wein, ſo gut als Neuenburger oder\nBurgunder, in billigem Preis, im Bericht-\nhaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "27. Zwei Stücklein weiſſen Wein von 1760. à\n8 Pfund 10 ß der Saumt im einten, und à\n8 Pfund im andern, wovon nach Belieben zu\nhaben, im Berichthaus ohne Entgeldt zu er-\nfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "28. Ein Stock Heu ab 3 Thänen Matten vorm\nRiechener-Thor oderhalb der Schorenbruck.\nFerner ein Stücklein von 57 Saumten rothen\nBölliger-Wein von 1760. ſchön roth- und lau-\nter, im Berichthaus ohne Entgeldt zu erfra-\ngen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "29. Auf E. E. Zunft zum Bären ſind wiederum\nneue Saure Rüben in billigem Preis zu haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "30. Ein roth Scharlachen Camiſol und Hoſen in\nbilligem Preis, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "31. Im Offenburger-Hof iſt wohlverwährter\nBau zu haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "32. Ein Brennhaüſlein bey der Steinen-Mühlin\nmit aller Kommlichkeit, im Berichthaus ohne\nEntgeldt zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "33. Bey weme rother und weiſſer Burgunder,\nwie auch Muscat-Wein, Piecenweiß wegen\nMangel Platzes, wie auch roth und weiſſer\n1753ger Margräfer Wein in billigem Preis zu\nhaben, iſt im Berichthaus ohne Entgeldt zu\nerfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "34. Feine heitergelbe Hamburger-Strick-Wollen\ndas Pfund à 6 Pfund, wo dieſelbe Pfundweiß\nzu haben, iſt im Berichthaus ohne Entgeldt zu\nerfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "35. Herrn Hofzach des Siegrists Behauſung im\nSpiegelgäſtlein mit 4 Stuben, 3 Kammern ꝛc.\niſt entweder zu verkaufen, oder ſamethaft zu\nverleihen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "36. Weiſſe und rothe Margräfer-Weine von"
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "1760. wovon in billigem Preis nach Belieben\nzu haben, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "37. Ein Mannenſitz in St. Peters Kirch auf dem\nLetner. Item ein grün Tombeau-Bethlein\nmit grünen wellenen Umhängen, in billigem\nPreis, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "38. Ein Hausſchlitten mit einem ſchönen Bild\nund Zugehördti in billigem Preis, im Bericht-\nhaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "39. Der Bärenfelſer-Hof zu St. Peter, mit\nGarten, Stallung, Keller ꝛc. wie der Augen-\nſchein zeigen wird. In Ermanglung eines\nKäufers"
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.93,
+        "cer": 0.067
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

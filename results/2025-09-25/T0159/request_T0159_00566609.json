@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 5.963676691055298,
-    "timestamp": "2025-09-25T20:41:09.545251",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Seurat\",\n    \"first_name\": \"\"\n  },\n  \"publication\": {\n    \"title\": \"Contribution à l'étude des hyménoptères entomophages.\",\n    \"year\": 1890,\n    \"place\": \"Paris\",\n    \"pages\": \"159\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

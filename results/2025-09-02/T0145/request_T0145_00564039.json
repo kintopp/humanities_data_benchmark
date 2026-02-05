@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 10.259741306304932,
-    "timestamp": "2025-09-03T17:08:42.143094",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"SEILER\",\n    \"first_name\": \"Pierre\"\n  },\n  \"publication\": {\n    \"title\": \"Université de Paris. Faculté de droit. L'Autorité de la chose jugée en matière de solidarité passive. Thèse pour le doctorat présentée... par Pierre Seiler...\",\n    \"year\": 1933,\n    \"place\": \"Paris\",\n    \"pages\": \"170\",\n    \"publisher\": \"F. Loviton\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": 1933\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"F. 36509\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

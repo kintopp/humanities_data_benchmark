@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-flash",
-    "duration": 3.9329068660736084,
-    "timestamp": "2025-04-01T14:27:53.116824",
-    "text": "```json\n{\n  \"letter_title\": [\"null\"],\n  \"sender_persons\": [\"Baxter Personenschiffahrtsgesellschaft\"],\n  \"send_date\": [\"1926-07-13\"],\n  \"receiver_persons\": [\"Elektrizitätswerk, Basel\"]\n}\n```\n",
-    "finish_reason": "stop"
-}

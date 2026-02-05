@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 8.015597105026245,
-    "timestamp": "2025-09-03T18:12:31.222702",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γρηγόριος Παλαμάς μέγας δομέτικος τῆς Ἀνάτως καὶ τὸ ὑπ' αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτόκου τῆς Πετριτζονιτίσσης\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"135-210\",\n    \"publisher\": \"typ. B. G. Teubneri\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Jena\",\n    \"year\": 1888\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

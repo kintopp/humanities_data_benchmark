@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 4.389906883239746,
-    "timestamp": "2025-04-10T08:13:56.717812",
-    "text": "{\n    \"letter_title\": null,\n    \"send_date\": [\"1928-02-23\"],\n    \"sender_persons\": [\"Der Präsident:\"],\n    \"receiver_persons\": [\"Basler Rheinschiffahrts A.-G.\", \"Basel\"]\n}",
-    "finish_reason": "stop"
-}

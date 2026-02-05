@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 4.902225494384766,
-    "timestamp": "2025-03-05T09:19:58.185654",
-    "text": "```json\n{\n\"persons_mentioned\": [\n\"Émile Zola\",\n\"M. Félix Faure\",\n\"Mathieu Dreyfus\",\n\"Commandant Esterhazy\",\n\"Sandherr\",\n\"Picquart\",\n\"Commandant Forzinetti\",\n\"Colonel de Clam\",\n\"Général Billot\",\n\"Marquis de Morès\",\n\"Général Gonse\",\n\"M. Gobert\"\n],\n\"places_mentioned\": [\n\"Europe\",\n\"France\",\n\"Paris\",\n\"Tonkin\",\n\"Algérie\",\n\"Tunis\",\n\"Conseil de Guerre\"\n],\n\"general_topic\": \"A denunciation of the wrongful conviction of Alfred Dreyfus and the cover-up by the French military and government.\",\n\"important_dates\": [\n\"Jeudi 13 Janvier 1898\"\n]\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.266844272613525,
-    "timestamp": "2025-09-05T10:53:25.665184",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Thiersch\",\n    \"first_name\": \"Michael\"\n  },\n  \"publication\": {\n    \"title\": \"Die Wirkung der L-Asparaginase auf die experimentelle allergische Encephalomyelitis (EAE) des Meerschweinchens. Diss.\",\n    \"year\": 1973,\n    \"place\": \"München\",\n    \"pages\": \"71\",\n    \"publisher\": \"\",\n    \"format\": \"8'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"München\",\n    \"year\": \"\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1976,39\",\n    \"publication_number\": \"\",\n    \"subjects\": \"3/Gehirn-Entzündung, experimentelle/Meerschweinchen. Gehirn,Nerven,Rückenmark/Asparaginase/\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

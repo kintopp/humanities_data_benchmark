@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-pro-exp-02-05",
-    "duration": 15.187740087509155,
-    "timestamp": "2025-04-01T15:06:51.744870",
-    "text": "```json\n{\n    \"letter_title\": [\"ALBATROS\"],\n    \"sender_persons\": [\"Basler Personenschiffahrtsgesellschaft\"],\n    \"send_date\": [\"1926-07-13\"],\n    \"receiver_persons\": [\"Elektrizitätswerk, Basel\"]\n}\n```",
-    "finish_reason": "stop"
-}

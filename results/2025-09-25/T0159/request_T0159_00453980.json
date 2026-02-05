@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.2555484771728516,
-    "timestamp": "2025-09-25T20:39:05.768567",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Pauly\",\n    \"first_name\": \"Hans\"\n  },\n  \"publication\": {\n    \"title\": \"Über Pulpen-Amputation.\",\n    \"year\": 1922,\n    \"place\": \"Köln\",\n    \"pages\": \"70\",\n    \"publisher\": \"Med. Fak. Köln\",\n    \"format\": \"4°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"U 22,0360\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, 1 folio, good condition with some staining and foxing.</PhysicalDescription>\n    <Description>Excerpt from a religious text, possibly a hagiography or guide, describing locations within a holy place, likely the Church of the Holy Sepulchre.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Body>\n      <Paragraph>\n        <Line><Initial type=\"decorated\">I</Initial>ch dar noch got man in die</Line>\n        <Line>kappel des heiligen grabes</Line>\n        <Line>do ist ein altar von marmel</Line>\n        <Line>stein gemacht uber das heilig</Line>\n        <Line>grab do vnser herre gewer</Line>\n        <Line>got und monsch in gelegen</Line>\n        <Line>ist und do von v̄erstanden</Line>\n        <Line>an dem dritten tag von</Line>\n        <Line>dem tod</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line><Initial type=\"decorated\">I</Initial>ch in dem tor des tempels</Line>\n        <Line>do ist ein loch und stat dar</Line>\n        <Line>bi ein klein stein do spach</Line>\n        <Line>vnser herre dz were das mittel</Line>\n        <Line>der welt</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line><Initial type=\"decorated\">I</Initial>ch die nochgeschriben scand die</Line>\n        <Line>die bilgerstat v̄wendig des</Line>\n        <Line>tempels in der stat</Line>\n      </Paragraph>\n      <Paragraph>\n        <Line><Initial type=\"decorated\">I</Initial>ch das hus des hiegen rich</Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 40.4,
+    "timestamp": "2026-02-05T13:57:29.342090",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, 1 folio, good condition with some staining and foxing.\nExcerpt from a religious text, possibly a hagiography or guide, describing locations within a holy place, likely the Church of the Holy Sepulchre.\nLatin\nI\nch dar noch got man in die\nkappel des heiligen grabes\ndo ist ein altar von marmel\nstein gemacht uber das heilig\ngrab do vnser herre gewer\ngot und monsch in gelegen\nist und do von v̄erstanden\nan dem dritten tag von\ndem tod\nI\nch in dem tor des tempels\ndo ist ein loch und stat dar\nbi ein klein stein do spach\nvnser herre dz were das mittel\nder welt\nI\nch die nochgeschriben scand die\ndie bilgerstat v̄wendig des\ntempels in der stat\nI\nch das hus des hiegen rich",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.731,
+        "cer": 0.575
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

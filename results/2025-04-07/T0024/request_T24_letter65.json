@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 2.0496225357055664,
-    "timestamp": "2025-04-07T17:12:32.674313",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1935-08-17\"],\n    \"sender_persons\": [\"Basler Personenschiffahrtsgesellschaft\"],\n    \"receiver_persons\": [\"Fritz Bitter\"]\n}",
-    "finish_reason": "stop"
-}

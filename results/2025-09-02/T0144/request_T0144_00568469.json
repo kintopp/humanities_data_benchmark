@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 4.953276872634888,
-    "timestamp": "2025-09-03T16:39:34.608111",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Sieber\",\n    \"first_name\": \"Luitgard\"\n  },\n  \"publication\": {\n    \"title\": \"Subventionen. Das Für und Wider in der sozialen Marktwirtschaft\",\n    \"year\": 1967,\n    \"place\": \"Erlangen-Nürnberg\",\n    \"pages\": \"IV,332\",\n    \"publisher\": \"\",\n    \"format\": \"8'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Erlangen-Nürnberg\",\n    \"year\": 1967\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1969,4497\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Subventionen/ S Diss\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

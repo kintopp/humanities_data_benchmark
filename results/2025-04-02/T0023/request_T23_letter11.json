@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.351859092712402,
-    "timestamp": "2025-04-02T21:09:40.603201",
-    "text": "```json\n{\n    \"letter_title\": [\"An die Redaktion der 'Basler Nachrichten'\"],\n    \"send_date\": [\"1988-07-14\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Basel\", \"Personenschifffahrtsgesellschaft\"]\n}\n```",
-    "finish_reason": "stop"
-}

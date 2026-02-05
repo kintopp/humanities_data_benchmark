@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 5.314012765884399,
-    "timestamp": "2025-09-03T16:41:34.969154",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Spiritus\",\n    \"first_name\": \"Paul\"\n  },\n  \"publication\": {\n    \"title\": \"Inwieweit muss sich die Zivilbevölkerung vermögensrechtliche Beschränkungen zu Gunsten der Militärgewalt im Frieden gefallen lassen? (Nach dem in Preussen geltenden Recht.)\",\n    \"year\": 1910,\n    \"place\": \"Bonn\",\n    \"pages\": \"50\",\n    \"publisher\": \"Georgi\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Heidelberg\",\n    \"year\": 1910\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 10. 2023\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 5.026942253112793,
-    "timestamp": "2025-09-25T20:36:25.757611",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γοηγράφιας Παχωντιανός μέρας ὀρνέστιμος τῆς Αὐστρίας καὶ τοῦ τὴν αἰχμὴν τῆς μονῆς τῆς Ὀκοτόχου τῆς Περιστερέας\",\n    \"year\": 1868,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"210\",\n    \"publisher\": \"B. G. Teubneri\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Phil. Fak., Inaug.-Diss. v. 1868\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

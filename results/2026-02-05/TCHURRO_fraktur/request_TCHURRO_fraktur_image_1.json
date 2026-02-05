@@ -1,0 +1,187 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Single sheet newspaper print, Fraktur typeface.</PhysicalDescription>\n    <Description>AVIS Blättlein Dienstags, Anno 1731, Num. 1, dated January 2, 1731. Contains advertisements and a public notice.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <Heading type=\"main\">\n        <Line>Mit Hoch = Gbrigkeitlichem PRIVILEGIO begoͤnſtigtes</Line>\n        <Line>AVIS Blättlein Dienſtags.</Line>\n      </Heading>\n      <Heading type=\"other\">\n        <Line>Anno 1731. Num. 1. Den 2. Januari.</Line>\n      </Heading>\n    </Header>\n    <Body>\n      <Figure>\n        <Description>Decorative headpiece with floral and grotesque elements.</Description>\n      </Figure>\n      <BlockQuotation type=\"verse\">\n        <Line><Initial type=\"decorated\">D</Initial>em Hoͤchſten ſey gedanckt / der unſer Vatterland</Line>\n        <Line>Im abgelegten Jahr / in Ruh und Fried erhalten;</Line>\n        <Line>Der woll ob Jedermann von Hoch und Niederm Stand/</Line>\n        <Line>Mit ſeiner Vatter-Huld auch in dem Neüen walten/</Line>\n        <Line>Nach des Verlegers Wunſch/ der ſein geringes Blat</Line>\n        <Line>Des Werthen Leſers Gunſt noch ferners anbefiehlet/</Line>\n        <Line>Und ſich ſehr hoch erfreut/ wann ſelbigs in der That</Line>\n        <Line>Gefaͤll'gen Nutzen ſchafft/ wohin es ennig ziehlet.</Line>\n      </BlockQuotation>\n      <Heading type=\"sub\">\n        <Line>Es werden zum Verkauff offerirt:</Line>\n      </Heading>\n      <List type=\"ordered\">\n        <Item>\n          <Line>1. Ein Stuͤcklein von in circa 20. Saum extra ſchoͤn</Line>\n          <Line>und guter rother Marggräffer-Wein von An-</Line>\n          <Line>no 1728. in raiſonnablem Preiß.</Line>\n        </Item>\n        <Item>\n          <Line>2. Das Wuͤrthshauß zur Tannen allhier / ſambt</Line>\n          <Line>Bethwerck / allſtand Geſchirr und Haupfrath/</Line>\n          <Line>auch all uͤbriger Gerechtigkeit/ in billichem Preiß/</Line>\n          <Line>und finden die Herren Liebhabere in dem Adreſſe-</Line>\n          <Line>Contor Beſcheyd.</Line>\n        </Item>\n        <Item>\n          <Line>3. Ein Stock Heu von ohngefehr 2. Waͤgen / von</Line>\n          <Line>letſter Recolte / ſehr gut und ohnberegnet/ in rai-</Line>\n          <Line>ſonnablem Preiß. Ligt aber nicht hier.</Line>\n        </Item>\n        <Item>\n          <Line>4. Zwey Stuͤcklein vom beſten weiſſen Marggrä-</Line>\n          <Line>ſer-Wein de Anno 1718. und ein dito von ge-</Line>\n          <Line>meldtem Jahrgang / weiſſer Elſaſſer / ſehr ſchoͤn</Line>\n          <Line>und vom beſten Orth / in moderatem Preiß.</Line>\n        </Item>\n        <Item>\n          <Line>5. Eine zimblich wohl-conditionirte Violino di Gam-</Line>\n          <Line>ba, ſo im Adreſſe-Contor kan geſehen werden.</Line>\n        </Item>\n        <Item>\n          <Line>6. Bey Herrn Burckhardt zur Linden iſt zu haben:</Line>\n          <Line>Extra guter Muſcateller- und Languedocker-Wein</Line>\n          <Line>die Bouteille à 7 ⅞. Baßen.</Line>\n        </Item>\n        <Item>\n          <Line>7. Ein groſſes Pulk / daran drey Perſohnen zugleich</Line>\n          <Line>ſitzen und ſchreiben koͤnnen / ſambt darzu gehoͤ-</Line>\n          <Line>rigem Tiſch.</Line>\n        </Item>\n        <Item>\n          <Line>8. Ein groſſes Himmel-Beth mit einer beſpanne-</Line>\n          <Line>nen Rahmen von Zwilch.</Line>\n        </Item>\n        <Item>\n          <Line>9. Ein ſchoͤner Hausz-ſchlitten ſambt dem Geſchirr.</Line>\n        </Item>\n        <Item>\n          <Line>10. Ein extra ſchoͤner Bier-Schildt.</Line>\n        </Item>\n        <Item>\n          <Line>11. Ein halb Dutzend Franzoͤſiſche Seſſel von gru-</Line>\n          <Line>ner Mocquette, wovon im Adreſſe-Contor ein</Line>\n          <Line>Muſter zu ſehen iſt.</Line>\n        </Item>\n        <Item>\n          <Line>12. Fünff Stuͤck Tapezerey von rother Mocquette/zu</Line>\n          <Line>Aufgarnirung eines Zimmers mittelmaͤßiger</Line>\n          <Line>Groſſe / ſeind auch im Adreſſe-Contor zu ſehen.</Line>\n        </Item>\n        <Item>\n          <Line>13. Ein eyſerner Bräther mittelmaͤßiger Groſſe.</Line>\n        </Item>\n        <Item>\n          <Line>14. Guter alter Land-Honig/ die Maaß à 6. Baßen.</Line>\n        </Item>\n        <Item>\n          <Line>15. Ein extra ſauberes Layoir oder Gießfaß von En-</Line>\n          <Line>gliſchem Zinn / auff die neue Mode.</Line>\n        </Item>\n        <Item>\n          <Line>16. Eine ſehr artig und wohl-geſütterte leichte Berline.</Line>\n        </Item>\n        <Item>\n          <Line>17. Eine brave Chaiſe auff vier Räderten.</Line>\n        </Item>\n        <Item>\n          <Line>18. Eine brave Behauſung von vortrefflicher Situation.</Line>\n        </Item>\n        <Item>\n          <Line>19. Eine mit Silber guarnirte ſaubere Canne naturell.</Line>\n        </Item>\n        <Item>\n          <Line>20. Zwey kleine Baͤren-ſtoßlein per Jungferlein.</Line>\n        </Item>\n        <Item>\n          <Line>21. Saubere Limmet-Dachten zum Roſenkrantz/</Line>\n        </Item>\n        <Item>\n          <Line>22. Ein Engliſches Sattelſtein faſt neu/ ſambt ande-</Line>\n          <Line>rem Pferdzeug und Stiefel.</Line>\n        </Item>\n        <Item>\n          <Line>23. Saubere Zinthen und Piſtohlen.</Line>\n        </Item>\n      </List>\n      <Paragraph>\n        <Line>Hingegen wird zu kauffen begehrt:</Line>\n      </Paragraph>\n      <List type=\"ordered\">\n        <Item>\n          <Line>1. Emanuel von Meteren oder Mecerani Niederlän-</Line>\n          <Line>diſche Geſchichten/ Teutſch oder Holländiſch/ gantz</Line>\n          <Line>oder defect, und obſcure man/ wann es anſtändig</Line>\n          <Line>ſeyn wird/ was billich iſt.</Line>\n        </Item>\n      </List>\n      <Paragraph>\n        <Line>Es wird zum Aufſteyhen offerirt:</Line>\n      </Paragraph>\n      <List type=\"ordered\">\n        <Item>\n          <Line>1. Ein Capital von 100. Pfunden auff anſtändige</Line>\n          <Line>Sicherheit in der Stadt oder auff der Landſchafft.</Line>\n        </Item>\n        <Item>\n          <Line>2. Ein dito von 600. Pfunden à drey pro Cento In-</Line>\n          <Line>tereſſe auff gute Sicherheit/ in der Stadt.</Line>\n        </Item>\n        <Item>\n          <Line>3. Die Schmiedte/ Bewohnung und Stallung in</Line>\n          <Line>der Mindern Stadt neben der Schleyſſe/ mit</Line>\n          <Line>oder ohne Werckzeug.</Line>\n        </Item>\n      </List>\n      <Paragraph>\n        <Line>Hingegen wird zu entlehnen begehrt:</Line>\n      </Paragraph>\n      <List type=\"ordered\">\n        <Item>\n          <Line>1. Ein ſehr Ehrlicher Mann in einer benachbarten</Line>\n          <Line>Herſchafft begehrt ein Capital von 100. Gulden</Line>\n          <Line>umb anſtändiges Intereſſe auffzunehmen/ und of-</Line>\n          <Line>ferirt darvor conſiderable Unterpfänder/ auch wo</Line>\n          <Line>mans verlangte hieſige Buͤrgſchafft zu geben.</Line>\n        </Item>\n      </List>\n      <Heading type=\"sub\">\n        <Line>Geſunden- und verlohrene Sachen:</Line>\n      </Heading>\n      <List type=\"ordered\">\n        <Item>\n          <Line>1. Vergangenen Sommer hat ein Freund dem an-</Line>\n          <Line>dern ein Viſier-Stab von dreyen Stücken brau-</Line>\n          <Line>nen Braſtilien-Holz mit Moͤſing garnirt/ ſo 180.</Line>\n          <Line>Ohmen halter / geliehen / weiſt aber ſich nicht zu</Line>\n          <Line>erinnern wehme/ dahero er hiemit gantz freundlich</Line>\n          <Line>umb die Reſtitution will gebänten haben.</Line>\n        </Item>\n        <Item>\n          <Line>2. Sambſtags den 23. Decembris jungſthin des</Line>\n          <Line>Morgens frühe bey dem hellen Mondſchein iſt auff</Line>\n          <Line>der Rheinbruck gefunden worden: Ein ſilbernes</Line>\n          <Line>Pittſchafft / die Perſohn / ſo ſelbiges verlohren /</Line>\n          <Line>beliebe es bey Meiſter Jacob Müller dem Span-</Line>\n          <Line>ner / im Mindern Baſel zum hindern Paradiß/</Line>\n          <Line>zu entheben.</Line>\n        </Item>\n        <Item>\n          <Line>3. Schon vor etwas Zeit/ vermuthlich letztern Som-</Line>\n          <Line>mer / iſt einem Ehrlichen Mann von Muttenz ein</Line>\n          <Line>offenes Brieflein mit Geldt eingehändigt wor-</Line>\n          <Line>den / worauff geſchrieben ware 5. ℔. 2. ß. in dem</Line>\n          <Line>Pfarthauß zu Muttenz abzulegen. Weilen aber</Line>\n          <Line>der Mann dazu mahlt diß Geldt beſeits verwahret</Line>\n        </Item>\n      </List>\n    </Body>\n    <Footer>\n      <CatchWord>und</CatchWord>\n    </Footer>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 128.86,
+    "timestamp": "2026-02-05T14:59:52.772742",
+    "parsed": {
+        "advertisements": [
+            {
+                "date": null,
+                "tags_section": "Anno 1731. Num. 1. Den 2. Januari",
+                "text": "Decorative headpiece with floral and grotesque elements.\nD\nem Hoͤchſten ſey gedanckt / der unſer Vatterland\nIm abgelegten Jahr / in Ruh und Fried erhalten;\nDer woll ob Jedermann von Hoch und Niederm Stand/\nMit ſeiner Vatter-Huld auch in dem Neüen walten/\nNach des Verlegers Wunſch/ der ſein geringes Blat\nDes Werthen Leſers Gunſt noch ferners anbefiehlet/\nUnd ſich ſehr hoch erfreut/ wann ſelbigs in der That\nGefaͤll'gen Nutzen ſchafft/ wohin es ennig ziehlet."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "1. Ein Stuͤcklein von in circa 20. Saum extra ſchoͤn\nund guter rother Marggräffer-Wein von An-\nno 1728. in raiſonnablem Preiß."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "2. Das Wuͤrthshauß zur Tannen allhier / ſambt\nBethwerck / allſtand Geſchirr und Haupfrath/\nauch all uͤbriger Gerechtigkeit/ in billichem Preiß/\nund finden die Herren Liebhabere in dem Adreſſe-\nContor Beſcheyd."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "3. Ein Stock Heu von ohngefehr 2. Waͤgen / von\nletſter Recolte / ſehr gut und ohnberegnet/ in rai-\nſonnablem Preiß. Ligt aber nicht hier."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "4. Zwey Stuͤcklein vom beſten weiſſen Marggrä-\nſer-Wein de Anno 1718. und ein dito von ge-\nmeldtem Jahrgang / weiſſer Elſaſſer / ſehr ſchoͤn\nund vom beſten Orth / in moderatem Preiß."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "5. Eine zimblich wohl-conditionirte Violino di Gam-\nba, ſo im Adreſſe-Contor kan geſehen werden."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "6. Bey Herrn Burckhardt zur Linden iſt zu haben:\nExtra guter Muſcateller- und Languedocker-Wein\ndie Bouteille à 7 ⅞. Baßen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "7. Ein groſſes Pulk / daran drey Perſohnen zugleich\nſitzen und ſchreiben koͤnnen / ſambt darzu gehoͤ-\nrigem Tiſch."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "8. Ein groſſes Himmel-Beth mit einer beſpanne-\nnen Rahmen von Zwilch."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "9. Ein ſchoͤner Hausz-ſchlitten ſambt dem Geſchirr."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "10. Ein extra ſchoͤner Bier-Schildt."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "11. Ein halb Dutzend Franzoͤſiſche Seſſel von gru-\nner Mocquette, wovon im Adreſſe-Contor ein\nMuſter zu ſehen iſt."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "12. Fünff Stuͤck Tapezerey von rother Mocquette/zu\nAufgarnirung eines Zimmers mittelmaͤßiger\nGroſſe / ſeind auch im Adreſſe-Contor zu ſehen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "13. Ein eyſerner Bräther mittelmaͤßiger Groſſe."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "14. Guter alter Land-Honig/ die Maaß à 6. Baßen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "15. Ein extra ſauberes Layoir oder Gießfaß von En-\ngliſchem Zinn / auff die neue Mode."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "16. Eine ſehr artig und wohl-geſütterte leichte Berline."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "17. Eine brave Chaiſe auff vier Räderten."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "18. Eine brave Behauſung von vortrefflicher Situation."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "19. Eine mit Silber guarnirte ſaubere Canne naturell."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "20. Zwey kleine Baͤren-ſtoßlein per Jungferlein."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "21. Saubere Limmet-Dachten zum Roſenkrantz/"
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "22. Ein Engliſches Sattelſtein faſt neu/ ſambt ande-\nrem Pferdzeug und Stiefel."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "23. Saubere Zinthen und Piſtohlen.\nHingegen wird zu kauffen begehrt:"
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "1. Emanuel von Meteren oder Mecerani Niederlän-\ndiſche Geſchichten/ Teutſch oder Holländiſch/ gantz\noder defect, und obſcure man/ wann es anſtändig\nſeyn wird/ was billich iſt.\nEs wird zum Aufſteyhen offerirt:"
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "1. Ein Capital von 100. Pfunden auff anſtändige\nSicherheit in der Stadt oder auff der Landſchafft."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "2. Ein dito von 600. Pfunden à drey pro Cento In-\ntereſſe auff gute Sicherheit/ in der Stadt."
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "3. Die Schmiedte/ Bewohnung und Stallung in\nder Mindern Stadt neben der Schleyſſe/ mit\noder ohne Werckzeug.\nHingegen wird zu entlehnen begehrt:"
+            },
+            {
+                "date": null,
+                "tags_section": "Es werden zum Verkauff offerirt",
+                "text": "1. Ein ſehr Ehrlicher Mann in einer benachbarten\nHerſchafft begehrt ein Capital von 100. Gulden\numb anſtändiges Intereſſe auffzunehmen/ und of-\nferirt darvor conſiderable Unterpfänder/ auch wo\nmans verlangte hieſige Buͤrgſchafft zu geben."
+            },
+            {
+                "date": null,
+                "tags_section": "Gesunden- und verlohrene Sachen",
+                "text": "1. Vergangenen Sommer hat ein Freund dem an-\ndern ein Viſier-Stab von dreyen Stücken brau-\nnen Braſtilien-Holz mit Moͤſing garnirt/ ſo 180.\nOhmen halter / geliehen / weiſt aber ſich nicht zu\nerinnern wehme/ dahero er hiemit gantz freundlich\numb die Reſtitution will gebänten haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Gesunden- und verlohrene Sachen",
+                "text": "2. Sambſtags den 23. Decembris jungſthin des\nMorgens frühe bey dem hellen Mondſchein iſt auff\nder Rheinbruck gefunden worden: Ein ſilbernes\nPittſchafft / die Perſohn / ſo ſelbiges verlohren /\nbeliebe es bey Meiſter Jacob Müller dem Span-\nner / im Mindern Baſel zum hindern Paradiß/\nzu entheben."
+            },
+            {
+                "date": null,
+                "tags_section": "Gesunden- und verlohrene Sachen",
+                "text": "3. Schon vor etwas Zeit/ vermuthlich letztern Som-\nmer / iſt einem Ehrlichen Mann von Muttenz ein\noffenes Brieflein mit Geldt eingehändigt wor-\nden / worauff geſchrieben ware 5. ℔. 2. ß. in dem\nPfarthauß zu Muttenz abzulegen. Weilen aber\nder Mann dazu mahlt diß Geldt beſeits verwahret\nund"
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.7,
+        "cer": 0.351
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

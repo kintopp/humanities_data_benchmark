@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 11.387537956237793,
-    "timestamp": "2025-09-03T17:16:35.866065",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Stork\",\n    \"first_name\": \"Victor a. Ohligs-Weyer\"\n  },\n  \"publication\": {\n    \"title\": \"Die Ausführung des Restitutions-Edikts von 1629 im Erzbistum Bremen\",\n    \"year\": 1906,\n    \"place\": \"Hannover\",\n    \"pages\": \"64\",\n    \"publisher\": \"Gebr. Jänecke\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Münster\",\n    \"year\": 1906\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss. v. 13. Okt. 1906\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Freußen; Vorbildung: Gymn. Solingen Reife O. 03; Studium: Freiburg i. B. 1, Münster 2, Marburg 1, Münster 3 S.; Rig. 2. Aug. 06.\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

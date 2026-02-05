@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 3.678938627243042,
-    "timestamp": "2025-05-23T11:22:19.138248",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1938-09-25\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Basler Rheinschiffahrts Aktiengesellschaft\"]\n}",
-    "finish_reason": "stop"
-}

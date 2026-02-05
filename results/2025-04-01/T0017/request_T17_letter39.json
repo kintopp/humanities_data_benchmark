@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 2.802039861679077,
-    "timestamp": "2025-04-01T14:39:42.271942",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1928-05-26\"],\n    \"sender_persons\": [\"Dr. Rud. Speich\"],\n    \"receiver_persons\": [\"Dr. Max Vischer\"]\n}",
-    "finish_reason": "stop"
-}

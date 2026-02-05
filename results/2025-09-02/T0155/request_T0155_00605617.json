@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 25.4987370967865,
-    "timestamp": "2025-09-05T12:21:43.766470",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Theben\",\n    \"first_name\": \"Alexander\"\n  },\n  \"publication\": {\n    \"title\": \"Über atypisches Erhängen\",\n    \"year\": 1935,\n    \"place\": \"Münster\",\n    \"pages\": \"19\",\n    \"publisher\": \"Regensberg\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Münster\",\n    \"year\": 1935\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 35. 8936\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 7.798167943954468,
-    "timestamp": "2025-05-23T11:11:17.638875",
-    "text": "{\n    \"letter_title\": [\"Betr.Personenschiffahrt\"],\n    \"sender_persons\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"send_date\": [\"1932-09-07\"],\n    \"receiver_persons\": [\"Dr.E.Vischer-von Planta\"]\n}",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 18.897576808929443,
-    "timestamp": "2025-09-05T12:58:22.722787",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Zeppelin\",\n    \"first_name\": \"Helmut v.\"\n  },\n  \"publication\": {\n    \"title\": \"Das System Lithium-Magnesium. (Ausz.)\",\n    \"year\": 1934,\n    \"place\": \"Berlin\",\n    \"pages\": \"8\",\n    \"publisher\": \"Verl. Chemie\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"Aus: Z. f. Elektrochemie. 40.\"\n  },\n  \"examination\": {\n    \"place\": \"Stuttgart TeH.\",\n    \"year\": 1934\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 34. 2371\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

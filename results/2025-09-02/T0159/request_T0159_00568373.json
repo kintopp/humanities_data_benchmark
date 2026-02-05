@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.88267183303833,
-    "timestamp": "2025-09-03T21:12:29.056057",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Siebenhüner\",\n    \"first_name\": \"Werner\"\n  },\n  \"publication\": {\n    \"title\": \"Ueber die Ursachen der Alopecia areata\",\n    \"year\": 1937,\n    \"place\": \"Erlangen\",\n    \"pages\": \"20\",\n    \"publisher\": \"K. Döres\",\n    \"format\": \"8°\"\n  },\n  \"examination\": {\n    \"place\": \"Erlangen\",\n    \"year\": 1937\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"B 1937, 18\",\n    \"publication_number\": \"618\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

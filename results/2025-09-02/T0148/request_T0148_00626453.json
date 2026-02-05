@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 3.6325974464416504,
-    "timestamp": "2025-09-03T19:13:06.368191",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"VÈNE\",\n    \"first_name\": \"Louis\"\n  },\n  \"publication\": {\n    \"title\": \"Étude sur les délires post-opératoires\",\n    \"year\": 1891,\n    \"place\": \"Paris\",\n    \"pages\": \"62\",\n    \"publisher\": \"\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1891\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"N° 220\",\n    \"subjects\": \"Th. méd. 1890-91\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

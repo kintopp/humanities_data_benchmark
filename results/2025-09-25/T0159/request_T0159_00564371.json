@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.3223090171813965,
-    "timestamp": "2025-09-25T20:40:52.528546",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Seitz\",\n    \"first_name\": \"Wilhelm\"\n  },\n  \"publication\": {\n    \"title\": \"Ueber die Bestimmung des Diffusionscoefficienten nach der electrolytischen Methode von H. F. Weber\",\n    \"year\": 1898,\n    \"place\": \"München\",\n    \"pages\": \"29\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"J. A. Barth 1897\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

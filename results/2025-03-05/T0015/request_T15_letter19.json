@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-flash",
-    "duration": 10.272062540054321,
-    "timestamp": "2025-03-05T17:57:50.863531",
-    "text": "```json\n{\n  \"letter_title\": [\"null\"],\n  \"sender_persons\": [\"Dr. Vischer, Präsident\", \"Herr Christ, Vizepräsident\", \"Herr Oettinger, Kontore\"],\n  \"send_date\": [\"1935-03-28\"],\n  \"receiver_persons\": [\"Vorstand der Basler Personenschifffahrtsgesellschaft\"]\n}\n```\n",
-    "finish_reason": "stop"
-}

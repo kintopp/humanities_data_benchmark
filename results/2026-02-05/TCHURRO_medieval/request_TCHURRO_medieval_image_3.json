@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, single folio side, good condition.</PhysicalDescription>\n    <Description>Excerpt from a geographical or travel narrative describing locations in the Mediterranean, including Venice, Modena, Candia, and Rhodes.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Body>\n      <Paragraph>\n        <Line>vnd die jnsel ist bi ccc mil</Line>\n        <Line>wit vnd ist der venediger</Line>\n        <Line>Itz von kurtun vntz gon</Line>\n        <Line>modun sind ccl mil vnd</Line>\n        <Line>ist och ein hùbsch stat vnd</Line>\n        <Line>ein ertzbstum vnd ist och</Line>\n        <Line>der venediger ze modun</Line>\n        <Line>wachset der rumanier vnd</Line>\n        <Line>lit och do bi ein heilig heasset</Line>\n        <Line>leo bi ij milan</Line>\n      </Paragraph>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Candia</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line>Itz von modun bis gon candia</Line>\n        <Line>sind ccc mil vnd candia</Line>\n      </Paragraph>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Creta.</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line>vnd ist ein gros jnsel vj mil</Line>\n      </Paragraph>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Virium</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line>maluaier do vnd wachset der</Line>\n      </Paragraph>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Malua.</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line>der venediger</Line>\n      </Paragraph>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Rhodg.</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line>Itz von candia vntz gon rodis</Line>\n        <Line>sind ccc mil wer aber</Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 41.02,
+    "timestamp": "2026-02-05T13:56:11.952599",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, single folio side, good condition.\nExcerpt from a geographical or travel narrative describing locations in the Mediterranean, including Venice, Modena, Candia, and Rhodes.\nLatin\nvnd die jnsel ist bi ccc mil\nwit vnd ist der venediger\nItz von kurtun vntz gon\nmodun sind ccl mil vnd\nist och ein hùbsch stat vnd\nein ertzbstum vnd ist och\nder venediger ze modun\nwachset der rumanier vnd\nlit och do bi ein heilig heasset\nleo bi ij milan\nCandia\nItz von modun bis gon candia\nsind ccc mil vnd candia\nCreta.\nvnd ist ein gros jnsel vj mil\nVirium\nmaluaier do vnd wachset der\nMalua.\nder venediger\nRhodg.\nItz von candia vntz gon rodis\nsind ccc mil wer aber",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.182,
+        "cer": 0.902
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

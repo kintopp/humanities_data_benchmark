@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.248757362365723,
-    "timestamp": "2025-09-25T20:48:18.640647",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Voges\",\n    \"first_name\": \"Emil\"\n  },\n  \"publication\": {\n    \"title\": \"Über die Lutidintricarbonsäure, Lutidinbase und Pyridindicarbonsäure aus Collidindicarbonsäure\",\n    \"year\": 1904,\n    \"place\": \"Leipzig\",\n    \"pages\": \"22\",\n    \"publisher\": \"Metzger & Wittig\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Phil. Diss. v. 1904\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

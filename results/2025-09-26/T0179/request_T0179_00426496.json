@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "mistral-medium-2508",
-    "duration": 4.802002429962158,
-    "timestamp": "2025-09-26T09:13:49.715071",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γεωργίου Παχουριανοῦ μέγας δομέστικος τῆς Δύσεως καὶ τὸ ὑπ' αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτόκου τῆς Πετριτζονίτσσης\",\n    \"year\": 1888,\n    \"place\": \"Jena\",\n    \"pages\": \"135-210\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

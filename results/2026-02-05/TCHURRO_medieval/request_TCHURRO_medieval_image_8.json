@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, 1 folio, good condition.</PhysicalDescription>\n    <Description>Record concerning regulations for the city of Bern, specifically regarding tolls (pfiffer) and the conduct of officials.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>69</PageNumber>\n    </Header>\n    <Body>\n      <Paragraph>\n        <Line><Initial type=\"simple\">D</Initial>arnach komē ir pfiffer vñ</Line>\n        <Line>trumeter zuͦ minem herˀn uff</Line>\n        <Line>die gallen vnd hofierten do</Line>\n        <Line>sinen gnedigen des glich komē</Line>\n        <Line>die windeschen pfiffer vnd</Line>\n        <Line>trumeter vnd boͤggenslaher</Line>\n        <Line>vñ hofierten do och nach irē</Line>\n        <Line>sitten also ward minē gnedige</Line>\n        <Line>herˀn vnd allen den sinē vil</Line>\n        <Line>ereÿ erbotten Jt̄ morudes ge</Line>\n        <Line>gen tag fürent wir do dannē</Line>\n        <Line>vnd komen uff fritag nach sant</Line>\n        <Line>Urbans tag der do wz der erst</Line>\n        <Line>tag im brachmonet gonkurfen</Line>\n        <Line>Dz ist ein schone stat mit zwey</Line>\n        <Line>herlichen velshwesern ob der</Line>\n        <Line>stat vñ uff sunitag darnach</Line>\n        <Line>füren wir da dannē vñ uff</Line>\n        <Line>zinstag vor sant Vitz tag</Line>\n        <Line>komen zuͦ vns im gallen by xx</Line>\n      </Paragraph>\n      <MarginalNote placement=\"right_margin\">\n        <Line>Honores</Line>\n        <Line>Marchio</Line>\n        <Line>in exi</Line>\n        <Line>biti.</Line>\n      </MarginalNote>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 50.92,
+    "timestamp": "2026-02-05T14:00:05.415100",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, 1 folio, good condition.\nRecord concerning regulations for the city of Bern, specifically regarding tolls (pfiffer) and the conduct of officials.\nLatin\n69\nD\narnach komē ir pfiffer vñ\ntrumeter zuͦ minem herˀn uff\ndie gallen vnd hofierten do\nsinen gnedigen des glich komē\ndie windeschen pfiffer vnd\ntrumeter vnd boͤggenslaher\nvñ hofierten do och nach irē\nsitten also ward minē gnedige\nherˀn vnd allen den sinē vil\nereÿ erbotten Jt̄ morudes ge\ngen tag fürent wir do dannē\nvnd komen uff fritag nach sant\nUrbans tag der do wz der erst\ntag im brachmonet gonkurfen\nDz ist ein schone stat mit zwey\nherlichen velshwesern ob der\nstat vñ uff sunitag darnach\nfüren wir da dannē vñ uff\nzinstag vor sant Vitz tag\nkomen zuͦ vns im gallen by xx\nHonores\nMarchio\nin exi\nbiti.",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.387,
+        "cer": 0.72
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

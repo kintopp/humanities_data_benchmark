@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash-lite",
-    "duration": 5.423619985580444,
-    "timestamp": "2025-09-05T11:07:04.847692",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Muschkatblatt\",\n    \"first_name\": \"Paulina\"\n  },\n  \"publication\": {\n    \"title\": \"Pathologisch-anatomischer Beitrag zur Kenntnis der Iridodialyse.\",\n    \"year\": 1920,\n    \"place\": \"München\",\n    \"pages\": \"8\",\n    \"publisher\": \"\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": 1920\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 20. 3022\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

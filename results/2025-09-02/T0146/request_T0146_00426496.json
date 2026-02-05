@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-1-20250805",
-    "duration": 9.648002624511719,
-    "timestamp": "2025-09-03T17:40:51.407216",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γρηγόριος Παλαμανὸς μέγας δομέστικος τῆς Δύσεως καὶ τὸ ὑπ' αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτοκόυ τῆς Πετριτζονιτίσσης\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"135-210\",\n    \"publisher\": \"typ. B. G. Teubneri\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Jena\",\n    \"year\": 1888\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

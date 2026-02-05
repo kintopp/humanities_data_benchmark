@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 10.450311660766602,
-    "timestamp": "2025-09-03T17:23:26.106823",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Vallotton\",\n    \"first_name\": \"Pierre\"\n  },\n  \"publication\": {\n    \"title\": \"Le Christ et la foi. Etude de théologie biblique. (Thèse Fac.de Théologie protestante Univ.Strasbourg). -- Genève:Labor et Fides (1960). -- 8' 171 S. = (Nouvelle série théologique,No.10.)\",\n    \"year\": 1960,\n    \"place\": \"Genève\",\n    \"pages\": \"171\",\n    \"publisher\": \"Labor et Fides\",\n    \"format\": \"8'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": \n  },\n  \"library_reference\": {\n    \"shelfmark\": \"- f c 3954\",\n    \"publication_number\": \"\",\n    \"subjects\": \"2/Theologie,biblische/Glaube an Christus/ NK RW Diss\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

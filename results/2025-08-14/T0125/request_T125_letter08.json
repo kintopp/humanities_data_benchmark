@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 32.00929045677185,
-    "timestamp": "2025-08-14T15:43:02.205929",
-    "text": "```json\n{\n    \"letter_title\": [\n        null\n    ],\n    \"send_date\": [\n        \"1926-06-26\"\n    ],\n    \"sender_persons\": [\n        \"BASLER PERSONENSCHIFFFAHRTSGESELLSCHAFT BASEL\"\n    ],\n    \"receiver_persons\": [\n        \"Geschaeftsleitung der Internationalen Ausstellung für Binnenschifffahrt und Wasserkraftnutzung Basel\"\n    ]\n}\n```",
-    "finish_reason": "stop"
-}

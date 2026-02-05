@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 17.87004280090332,
-    "timestamp": "2025-09-05T12:50:51.970565",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Wind\",\n    \"first_name\": \"Bartina Harmina\"\n  },\n  \"publication\": {\n    \"title\": \"Les mots italiens introduits en français au XVIe siècle.\",\n    \"year\": 1928,\n    \"place\": \"Deventer\",\n    \"pages\": \"\",\n    \"publisher\": \"\",\n    \"format\": \"8o.\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Amsterdam Gem. Univ., Letteren en Wijsbegeerte\",\n    \"year\": 1928\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

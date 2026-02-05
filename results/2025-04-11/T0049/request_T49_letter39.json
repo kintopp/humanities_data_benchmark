@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-flash",
-    "duration": 5.0898637771606445,
-    "timestamp": "2025-04-10T07:55:56.739315",
-    "text": "```json\n{\n  \"letter_title\": [\"null\"],\n  \"sender_persons\": [\"Dr. Rud. Speich\"],\n  \"send_date\": [\"1928-05-26\"],\n  \"receiver_persons\": [\"Herr Dr.J.Jax Vischer\"]\n}\n```\n",
-    "finish_reason": "stop"
-}

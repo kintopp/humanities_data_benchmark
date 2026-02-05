@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 12.655401706695557,
-    "timestamp": "2025-09-03T16:58:48.640733",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Reference\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius [Stenimachitis]\"\n  },\n  \"publication\": {\n    \"title\": \"Γρηγόριος Παλαμιανός μέγας δομέστικος τῆς δύσεως καὶ τὸ ὑπ' αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτόκου τῆς Πετριτζονιτίσσης\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"135-210\",\n    \"publisher\": \"typ. B. G. Teubneri\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": null\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"(Aus: Dissertationes Ienenses IV.) Jena, Phil. Fak., Inaug.-Diss. v. 1868\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

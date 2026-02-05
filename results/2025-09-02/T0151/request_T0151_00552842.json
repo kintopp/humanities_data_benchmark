@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.423139333724976,
-    "timestamp": "2025-09-05T10:46:20.070039",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Schürmann\",\n    \"first_name\": \"Richard\"\n  },\n  \"publication\": {\n    \"title\": \"Resultate der Nerentuberkulosebehandlung\",\n    \"year\": 1923,\n    \"place\": \"Süchteln\",\n    \"pages\": \"31\",\n    \"publisher\": \"Thelen\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"Auszug\"\n  },\n  \"examination\": {\n    \"place\": \"Bonn\",\n    \"year\": 1924\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 24. 1189\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

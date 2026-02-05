@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.851719379425049,
-    "timestamp": "2025-09-25T20:46:18.752817",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Tripp\",\n    \"first_name\": \"Erich\"\n  },\n  \"publication\": {\n    \"title\": \"Über \\\"Pankreasfettgewebsnekrosen, nebst einem Fall einer solchen Nekrose tumorartigen Charakters in der Nierenfettkapsel\\\"\",\n    \"year\": 1939,\n    \"place\": \"Erlangen\",\n    \"pages\": \"32\",\n    \"publisher\": \"K. Döres\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"B 1939, I5, 615\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

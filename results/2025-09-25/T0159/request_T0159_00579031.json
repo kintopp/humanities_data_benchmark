@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.426678419113159,
-    "timestamp": "2025-09-25T20:42:55.260768",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Spiegelberg\",\n    \"first_name\": \"Otto\"\n  },\n  \"publication\": {\n    \"title\": \"Ueber das gegenseitige Verhältniss zwischen dem gerichtlichen Geständniss und der Offenkundigkeit bei dem Gericht nach der deutschen Civilprozessordnung\",\n    \"year\": 1896,\n    \"place\": \"Frankfurt a. M.\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"v. [1. Juni] 1896\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

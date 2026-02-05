@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-flash",
-    "duration": 6.058466196060181,
-    "timestamp": "2025-03-05T17:59:14.759547",
-    "text": "```json\n{\n  \"letter_title\": [\"null\"],\n  \"sender_persons\": [\"Herr Dr.Späth\"],\n  \"send_date\": [\"1930-05-24\"],\n  \"receiver_persons\": [\"Direktor Werner Stänzbacher\", \"Präsident des Vereins Die Schiffahrt Basel\"]\n}\n```\n",
-    "finish_reason": "stop"
-}

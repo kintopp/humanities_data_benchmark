@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 3.8623452186584473,
-    "timestamp": "2025-04-10T07:11:25.009117",
-    "text": "{\n    \"letter_title\": [\"Kenntnisnahme zu übergeben\"],\n    \"send_date\": [\"1926-06-22\"],\n    \"sender_persons\": [\"Paul Müller\"],\n    \"receiver_persons\": [\"F. Christ - Wackernagel\"]\n}",
-    "finish_reason": "stop"
-}

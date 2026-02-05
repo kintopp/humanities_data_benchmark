@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 4.646080732345581,
-    "timestamp": "2025-04-09T20:57:28.750230",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1934-06-28\"],\n    \"sender_persons\": [\"Dr. Fritz Steiger\", \"Dr. Max Vischer\"],\n    \"receiver_persons\": [\"P. Christ-Weckernagel\"]\n}",
-    "finish_reason": "stop"
-}

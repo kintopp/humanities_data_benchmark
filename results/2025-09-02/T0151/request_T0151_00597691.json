@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.0200440883636475,
-    "timestamp": "2025-09-05T10:52:24.206549",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Sünkel\",\n    \"first_name\": \"Werner\"\n  },\n  \"publication\": {\n    \"title\": \"Eine Zweikanal-Rechnung für die elastische Streuung von He an He3. Diss. Tübingen\",\n    \"year\": 1968,\n    \"place\": \"Tübingen\",\n    \"pages\": \"56\",\n    \"publisher\": \"\",\n    \"format\": \"8'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": \"\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1969\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

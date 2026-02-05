@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.917771339416504,
-    "timestamp": "2025-09-25T20:45:50.922191",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Tinschert\",\n    \"first_name\": \"Franz\"\n  },\n  \"publication\": {\n    \"title\": \"Untersuchungen über den Tuberkelbazillengehalt der Milch tuberkulöser Kühe\",\n    \"year\": 1908,\n    \"place\": \"Magdeburg\",\n    \"pages\": \"46\",\n    \"publisher\": \"Leistner & Drewfs\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Archiv f. Veterinärmed. Bd 1, H. 2\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

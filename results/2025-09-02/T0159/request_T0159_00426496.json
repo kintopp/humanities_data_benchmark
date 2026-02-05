@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 7.742461919784546,
-    "timestamp": "2025-09-03T21:05:59.954581",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γεωργίος Παχυμέρης μέγας δομέστικος τῆς Ἀνατολῆς καὶ τοῦ ἕτερου τριτημορίου τῆς μεγίστης τῆς Ὀρθοδόξου τῆς Πενταρχονικῆς...\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"210\",\n    \"publisher\": \"B. G. Teubneri\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Jena\",\n    \"year\": 1888\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Phil. Fak., Inaug.-Diss. v. 1888\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

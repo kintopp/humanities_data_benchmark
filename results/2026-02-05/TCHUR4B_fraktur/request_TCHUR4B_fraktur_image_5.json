@@ -1,0 +1,137 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://www.w3.org/2001/XMLSchema\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Single printed page from a historical document.</PhysicalDescription>\n    <Description>Advertisements or notices from a historical document.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>31</PageNumber>\n    </Header>\n    <Body>\n      <Paragraph>\n        <Line>Kaͤufers iſt die Bewoahnung auf dem erſten</Line>\n        <Line>Stock zu verleihen, beſtehend in 3 Stuben,</Line>\n        <Line>Kuchin, Kammern, Sommerhaus, Keller ꝛc.</Line>\n        <Line>nach Belieben zu beziehen.</Line>\n      </Paragraph>\n      <Heading>\n        <Line>Hingegen wird zu kaufen begehrt:</Line>\n      </Heading>\n      <List>\n        <Item>\n          <Line>1. Es ſucht jemand einen ſilbern Schreibzeug</Line>\n          <Line>mit aller Zugehoͤrdt und ſchoͤner Faßon, der</Line>\n          <Line>Liebhaber iſt im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>2. Man begehrt eine Chaise mit 4 Raͤdern zu et-</Line>\n          <Line>wann 3 Plaͤtzen und zu einem Pferd ſamt ge-</Line>\n          <Line>hoͤrigem Geſchir, der Liebhaber iſt im Be-</Line>\n          <Line>richthaus ohne Entgeld zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>3. Wer hier oder auf dem Land noch neuen Traͤ-</Line>\n          <Line>ber-Brandtewein Ohmenweis zu verkaufen</Line>\n          <Line>hat, kan im Berichthaus einen Kaͤufer darzu</Line>\n          <Line>vernehmen, wie auch zu einem mittelmäßigen</Line>\n          <Line>Sponton, ſo ebenfahls begehrt wird, beydes</Line>\n          <Line>ohne Entgeldt im Berichthaus iſt zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>4. Es ſucht jemand eine gute, ſolide und unge-</Line>\n          <Line>fehr einen Saum haltende Feuerſprizen zum</Line>\n          <Line>tragen oder zum fuͤhren, der Liebhaber iſt im</Line>\n          <Line>Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>5. Es ſucht jemand einen moͤßlingen Kron-</Line>\n          <Line>Leuchter mit 8 Lichtſtoͤcken, der Liebhaber iſt</Line>\n          <Line>im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>6. Es verlangt jemand eine nicht gar groſſe ei-</Line>\n          <Line>ſerne Geldt-Caſſa zu kaufen, der Liebhaber iſt</Line>\n          <Line>im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>7. Es verlangt jemand einen glatten nußbaͤumern</Line>\n          <Line>zweythuͤrigen Kaſten, der Liebhaber iſt im Be-</Line>\n          <Line>richthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>8. Man verlangt einen noch guten Kachel-Ofen</Line>\n          <Line>mittelmaͤßiger Groͤſſe mit oder ohne Fuß, der</Line>\n          <Line>Liebhaber iſt im Berichthaus zu erfragen; lei-</Line>\n          <Line>det aber keinen Verzug.</Line>\n        </Item>\n      </List>\n      <Heading>\n        <Line>Es wird zum Ausleihen offeriert:</Line>\n      </Heading>\n      <List>\n        <Item>\n          <Line>1. Ein Loſament mitten im Offenburger-Hof,</Line>\n          <Line>wie der Augenſchein zeigen wird, auf naͤchſte</Line>\n          <Line>Faßnacht- oder Pfingſt-Fronfalten zu beziehen.</Line>\n        </Item>\n        <Item>\n          <Line>2. Ein ſaubaberes Loſament an der Spalen von ei-</Line>\n          <Line>ner Stuben und Nebenkammer, oder nach</Line>\n          <Line>Belieben zwo Kammern ſamt einem heitern</Line>\n          <Line>Sommerhaus, alles auf einem Boden, und</Line>\n          <Line>nach Belieben Stallung und Heubuͤhne, auf</Line>\n          <Line>Pfingſt-Fronfalten zu beziehen.</Line>\n        </Item>\n        <Item>\n          <Line>3. Ein Loſament mit einem ſchoͤnen Laden und</Line>\n          <Line>Laden-Stuͤblein nebſt einem groſſen Sommer-</Line>\n          <Line>haus, Stuben, Kuchin, 2 groſſe Kammern,</Line>\n          <Line>etwem beſoͤndern Keller, Holthaus, ein deſchloͤſ-</Line>\n          <Line>ſenes Bauchhaus, auf der Eiſengaß, im Be-</Line>\n          <Line>richthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>4. Ein Loſament in der Froͤſchgaß von einer Stu-</Line>\n          <Line>ben, 2 Kaumern und Blaz zum Holz, auf</Line>\n          <Line>Pfingſt-Fronfalten zu beziehen, im Berichthaus</Line>\n          <Line>zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>5. Ein Loſament fuͤr 2 Perſoͤnen in der Weiſſen-</Line>\n          <Line>Gaß, beſtehend aus einem Stuͤblein und Ale-</Line>\n          <Line>kofen, Platz zum Hausrath zu ſtellen, auf ei-</Line>\n          <Line>nem Boden, wie auch Platz zum Holz, Brun-</Line>\n          <Line>nen im Haus, à 15 Pfund Zins des Jahrs,</Line>\n          <Line>kan gleich bezogen werden, im Berichthaus zu</Line>\n          <Line>erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>6. Ein ſchoͤnes Loſament ebenes Fuſſes auf ei-</Line>\n          <Line>nem Boden von 3 Stuben, einem groſſen</Line>\n          <Line>Saal, Kammern, Kuchin, Keller, Platz zum</Line>\n          <Line>Holz, Zutritt zum Bauchhaus, und, ſo belie-</Line>\n          <Line>big, einem Garten in der Aeſcheiner Vorſtadt,</Line>\n          <Line>im Berichthaus ohne Entgeldt zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>7. Eine groſſe doppelte Frucht-Schuͤtte auf</Line>\n          <Line>E. E. Geſellſchaft zum Hohen Rupf.</Line>\n        </Item>\n        <Item>\n          <Line>8. Bis den 18ten diß wird eine ſaͤugende Huͤndin</Line>\n          <Line>begehrt, um etliche junge Hunde zu auferzie-</Line>\n          <Line>hen, gegen einer Erkannlichkeit; wo ſich anzu-</Line>\n          <Line>melden, iſt im Berichthaus ohne Entgeldt zu</Line>\n          <Line>vernehmen.</Line>\n        </Item>\n        <Item>\n          <Line>9. Auf kuͤnftige Beyhnacht iſt unter der St. De-</Line>\n          <Line>ters-Schul ein geraͤumiges Magazin zu verlei-</Line>\n          <Line>hen, darum ſich in dem Schulhaus anzu-</Line>\n          <Line>melden.</Line>\n        </Item>\n      </List>\n      <Heading>\n        <Line>Koſt, Jnformation und Bedienun-</Line>\n        <Line>gen werden angetragen und begehrt:</Line>\n      </Heading>\n      <List>\n        <Item>\n          <Line>1. Jn ein wackeres proteſtantiſches Haus in denen</Line>\n          <Line>Niederlanden wird ein Candidatus Theologie,</Line>\n          <Line>der neben andern auch die franzoͤſiſche Sprach</Line>\n          <Line>verſtuͤnde, zu einem Haus-Præceptor begehrt,</Line>\n          <Line>weshalb ſich im Berichthaus zu melden.</Line>\n        </Item>\n        <Item>\n          <Line>2. Man verlangt einen Menſchern in eine Fabri-</Line>\n          <Line>ke, der ſich zu allerley Haus-Geſchraften brau-</Line>\n          <Line>chen lieſſe, im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>3. Man ſucht einen Stallknecht in ein Wirths-</Line>\n          <Line>Haus, im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>4. Ein</Line>\n        </Item>\n      </List>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro-4bit",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 80.14,
+    "timestamp": "2026-02-05T15:47:31.625482",
+    "parsed": {
+        "advertisements": [
+            {
+                "date": null,
+                "tags_section": null,
+                "text": "31\nKaͤufers iſt die Bewoahnung auf dem erſten\nStock zu verleihen, beſtehend in 3 Stuben,\nKuchin, Kammern, Sommerhaus, Keller ꝛc.\nnach Belieben zu beziehen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "1. Es ſucht jemand einen ſilbern Schreibzeug\nmit aller Zugehoͤrdt und ſchoͤner Faßon, der\nLiebhaber iſt im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "2. Man begehrt eine Chaise mit 4 Raͤdern zu et-\nwann 3 Plaͤtzen und zu einem Pferd ſamt ge-\nhoͤrigem Geſchir, der Liebhaber iſt im Be-\nrichthaus ohne Entgeld zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "3. Wer hier oder auf dem Land noch neuen Traͤ-\nber-Brandtewein Ohmenweis zu verkaufen\nhat, kan im Berichthaus einen Kaͤufer darzu\nvernehmen, wie auch zu einem mittelmäßigen\nSponton, ſo ebenfahls begehrt wird, beydes\nohne Entgeldt im Berichthaus iſt zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "4. Es ſucht jemand eine gute, ſolide und unge-\nfehr einen Saum haltende Feuerſprizen zum\ntragen oder zum fuͤhren, der Liebhaber iſt im\nBerichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "5. Es ſucht jemand einen moͤßlingen Kron-\nLeuchter mit 8 Lichtſtoͤcken, der Liebhaber iſt\nim Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "6. Es verlangt jemand eine nicht gar groſſe ei-\nſerne Geldt-Caſſa zu kaufen, der Liebhaber iſt\nim Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "7. Es verlangt jemand einen glatten nußbaͤumern\nzweythuͤrigen Kaſten, der Liebhaber iſt im Be-\nrichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Hingegen wird zu kaufen begehrt",
+                "text": "8. Man verlangt einen noch guten Kachel-Ofen\nmittelmaͤßiger Groͤſſe mit oder ohne Fuß, der\nLiebhaber iſt im Berichthaus zu erfragen; lei-\ndet aber keinen Verzug."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "1. Ein Loſament mitten im Offenburger-Hof,\nwie der Augenſchein zeigen wird, auf naͤchſte\nFaßnacht- oder Pfingſt-Fronfalten zu beziehen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "2. Ein ſaubaberes Loſament an der Spalen von ei-\nner Stuben und Nebenkammer, oder nach\nBelieben zwo Kammern ſamt einem heitern\nSommerhaus, alles auf einem Boden, und\nnach Belieben Stallung und Heubuͤhne, auf\nPfingſt-Fronfalten zu beziehen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "3. Ein Loſament mit einem ſchoͤnen Laden und\nLaden-Stuͤblein nebſt einem groſſen Sommer-\nhaus, Stuben, Kuchin, 2 groſſe Kammern,\netwem beſoͤndern Keller, Holthaus, ein deſchloͤſ-\nſenes Bauchhaus, auf der Eiſengaß, im Be-\nrichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "4. Ein Loſament in der Froͤſchgaß von einer Stu-\nben, 2 Kaumern und Blaz zum Holz, auf\nPfingſt-Fronfalten zu beziehen, im Berichthaus\nzu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "5. Ein Loſament fuͤr 2 Perſoͤnen in der Weiſſen-\nGaß, beſtehend aus einem Stuͤblein und Ale-\nkofen, Platz zum Hausrath zu ſtellen, auf ei-\nnem Boden, wie auch Platz zum Holz, Brun-\nnen im Haus, à 15 Pfund Zins des Jahrs,\nkan gleich bezogen werden, im Berichthaus zu\nerfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "6. Ein ſchoͤnes Loſament ebenes Fuſſes auf ei-\nnem Boden von 3 Stuben, einem groſſen\nSaal, Kammern, Kuchin, Keller, Platz zum\nHolz, Zutritt zum Bauchhaus, und, ſo belie-\nbig, einem Garten in der Aeſcheiner Vorſtadt,\nim Berichthaus ohne Entgeldt zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "7. Eine groſſe doppelte Frucht-Schuͤtte auf\nE. E. Geſellſchaft zum Hohen Rupf."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "8. Bis den 18ten diß wird eine ſaͤugende Huͤndin\nbegehrt, um etliche junge Hunde zu auferzie-\nhen, gegen einer Erkannlichkeit; wo ſich anzu-\nmelden, iſt im Berichthaus ohne Entgeldt zu\nvernehmen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Ausleihen offeriert",
+                "text": "9. Auf kuͤnftige Beyhnacht iſt unter der St. De-\nters-Schul ein geraͤumiges Magazin zu verlei-\nhen, darum ſich in dem Schulhaus anzu-\nmelden."
+            },
+            {
+                "date": null,
+                "tags_section": "Kost, Jnformation und Bedienun-\ngen werden angetragen und begehrt",
+                "text": "1. Jn ein wackeres proteſtantiſches Haus in denen\nNiederlanden wird ein Candidatus Theologie,\nder neben andern auch die franzoͤſiſche Sprach\nverſtuͤnde, zu einem Haus-Præceptor begehrt,\nweshalb ſich im Berichthaus zu melden."
+            },
+            {
+                "date": null,
+                "tags_section": "Kost, Jnformation und Bedienun-\ngen werden angetragen und begehrt",
+                "text": "2. Man verlangt einen Menſchern in eine Fabri-\nke, der ſich zu allerley Haus-Geſchraften brau-\nchen lieſſe, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Kost, Jnformation und Bedienun-\ngen werden angetragen und begehrt",
+                "text": "3. Man ſucht einen Stallknecht in ein Wirths-\nHaus, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Kost, Jnformation und Bedienun-\ngen werden angetragen und begehrt",
+                "text": "4. Ein"
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.91,
+        "cer": 0.124
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

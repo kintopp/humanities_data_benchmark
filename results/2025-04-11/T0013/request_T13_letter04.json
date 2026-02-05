@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 4.2378435134887695,
-    "timestamp": "2025-04-09T21:48:59.032993",
-    "text": "```json\n{\n    \"letter_title\": [\"INTERNATIONALE AUSSTELLUNG FÜR BINNENSCHIFFAHRT UND WASSERKRAFTNUTZUNG\"],\n    \"send_date\": [\"1926-03-26\"],\n    \"sender_persons\": [\"W. Mann\"],\n    \"receiver_persons\": [\"Christ\"]\n}\n```",
-    "finish_reason": "stop"
-}

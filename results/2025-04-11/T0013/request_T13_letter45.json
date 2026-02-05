@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 4.771512269973755,
-    "timestamp": "2025-04-09T21:52:36.665885",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1928-09-28\"],\n    \"sender_persons\": [\"Verein für die Schiffahrt auf dem Oberrhein\"],\n    \"receiver_persons\": [\"Max Vischer\"]\n}\n```",
-    "finish_reason": "stop"
-}

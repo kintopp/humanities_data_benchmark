@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.050815105438232,
-    "timestamp": "2025-09-05T10:40:34.487690",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Müller\",\n    \"first_name\": \"Hans\"\n  },\n  \"publication\": {\n    \"title\": \"Akute gelbe Leberatrophie im Kindesalter\",\n    \"year\": 1920,\n    \"place\": \"Berlin\",\n    \"pages\": \"35, IV\",\n    \"publisher\": \"Blanke\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"Auszug\"\n  },\n  \"examination\": {\n    \"place\": \"Berlin\",\n    \"year\": 1920\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 20. 1387\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

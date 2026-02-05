@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 5.194392919540405,
-    "timestamp": "2025-09-03T19:03:35.572007",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"Schrode\",\n    \"first_name\": \"Martin\"\n  },\n  \"publication\": {\n    \"title\": \"Das Problem der Rehabilitation bei Frauen mit Unterleibskrebs\",\n    \"year\": 1958,\n    \"place\": \"\",\n    \"pages\": \"43\",\n    \"publisher\": \"\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Ludwig-Maximilian-Univ.München\",\n    \"year\": 1958\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.München Univ.1958\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Gebärmutterkrebs/Krebs der Gebärmutter/Rehabilitation körperlich und geistig Behinderter\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 7.145035743713379,
-    "timestamp": "2025-09-03T21:16:36.530413",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Stork\",\n    \"first_name\": \"Victor\"\n  },\n  \"publication\": {\n    \"title\": \"Die Ausführung des Restitutions-Edikts von 1629 im Erzbistum Bremen\",\n    \"year\": 1906,\n    \"place\": \"Hannover\",\n    \"pages\": \"64\",\n    \"publisher\": \"Gebr. Jänecke\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Münster\",\n    \"year\": 1906\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Spannagel, Diss. v. 13. Okt. 1906\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

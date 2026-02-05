@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 22.521604299545288,
-    "timestamp": "2025-08-14T15:39:06.333278",
-    "text": "```json\n{\n    \"letter_title\": [\n        \"Darlehen für den Bau des neuen Personenschiffes\"\n    ],\n    \"sender_persons\": [\n        \"Basler Rheinschiffahrt Aktiengesellschaft\"\n    ],\n    \"send_date\": [\n        \"1932-10-15\"\n    ],\n    \"receiver_persons\": [\n        \"Dr. Max Vischer\"\n    ]\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 3.988036632537842,
-    "timestamp": "2025-04-10T07:44:13.552561",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1932-11-24\"],\n    \"sender_persons\": [\"Max Vischer\", \"P. C. von Planta\"],\n    \"receiver_persons\": [\"A.Oettinger\"]\n}\n```",
-    "finish_reason": "stop"
-}

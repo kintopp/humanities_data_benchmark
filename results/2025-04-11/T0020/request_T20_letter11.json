@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash-lite",
-    "duration": 4.397625684738159,
-    "timestamp": "2025-04-09T23:25:12.245280",
-    "text": "```json\n{\n  \"letter_title\": [\n    \"null\"\n  ],\n  \"send_date\": [\n    \"1926-07-14\"\n  ],\n  \"sender_persons\": [\n    \"Basler Personenschiffahrtsgesellschaft\"\n  ],\n  \"receiver_persons\": [\n    \"Redaktion der \\\"Basler Nachrichten\\\"\"\n  ]\n}\n```",
-    "finish_reason": "stop"
-}

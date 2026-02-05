@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.282779693603516,
-    "timestamp": "2025-09-05T11:01:25.105474",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Wienert\",\n    \"first_name\": \"Paul\"\n  },\n  \"publication\": {\n    \"title\": \"Beitrag zur Diagnostik der Atheromatose. Tierexperimentelle Versuche beim Huhn mit einer radioaktiv markierten Testemulsion\",\n    \"year\": 1958,\n    \"place\": \"Köln\",\n    \"pages\": \"37\",\n    \"publisher\": \"Photostelle der Univ.\",\n    \"format\": \"8'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Köln\",\n    \"year\": 1958\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss. Köln 1958\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Arteriosklerose, experimentelle/Houshuhn. Experimentelle Krankheitserzeugung\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.2472047805786133,
-    "timestamp": "2025-09-25T20:47:39.989079",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Vayssière\",\n    \"first_name\": \"Émile\"\n  },\n  \"publication\": {\n    \"title\": \"Déviation du complément et grossesse\",\n    \"year\": 1912,\n    \"place\": \"Montpellier\",\n    \"pages\": \"78\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

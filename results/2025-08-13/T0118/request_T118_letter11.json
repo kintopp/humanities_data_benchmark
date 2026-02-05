@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-1-20250805",
-    "duration": 3.571455478668213,
-    "timestamp": "2025-08-13T13:36:54.406206",
-    "text": "{\n    \"letter_title\": [null],\n    \"send_date\": [\"1938-07-14\"],\n    \"sender_persons\": [\"Basler Personenschiffahrtsgesellschaft\"],\n    \"receiver_persons\": [null]\n}",
-    "finish_reason": "stop"
-}

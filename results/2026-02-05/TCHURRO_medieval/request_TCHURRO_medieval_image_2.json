@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, 1 folio side, good condition.</PhysicalDescription>\n    <Description>Excerpt from a historical German manuscript, likely a chronicle or religious text.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Body>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Muran</Line>\n        <Line>glas</Line>\n        <Line>Süttin</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line><Initial type=\"simple\">Z</Initial>elbs im frowaltar die sohend</Line>\n        <Line>wir gancz vnd ein stuck von</Line>\n        <Line>dem heiligen frow crütz dz</Line>\n        <Line>lit ir brust vnd ein</Line>\n        <Line>bein von sant marien madalene</Line>\n        <Line>ruggrot jch vff samstag noch</Line>\n        <Line>dem ostertag der do was der</Line>\n        <Line>ander tag des abrellas do</Line>\n        <Line>furend wir gon meran do</Line>\n        <Line>ligend in sant <Emphasis type=\"underline\">P</Emphasis>steffans</Line>\n        <Line>kirchen bi hundert der kindlin</Line>\n        <Line>die herodes erschlug in einem</Line>\n        <Line>altar die sohend wir vnd</Line>\n        <Line>sicht man noch bescheidenlich</Line>\n        <Line>ir hand vnd füs vnd die</Line>\n        <Line>nagel dar an <Emphasis type=\"underline\">M</Emphasis>erines an</Line>\n        <Line>dem sūnentag früg do</Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 32.34,
+    "timestamp": "2026-02-05T13:55:30.732675",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, 1 folio side, good condition.\nExcerpt from a historical German manuscript, likely a chronicle or religious text.\nLatin\nMuran\nglas\nSüttin\nZ\nelbs im frowaltar die sohend\nwir gancz vnd ein stuck von\ndem heiligen frow crütz dz\nlit ir brust vnd ein\nbein von sant marien madalene\nruggrot jch vff samstag noch\ndem ostertag der do was der\nander tag des abrellas do\nfurend wir gon meran do\nligend in sant\nP\nsteffans\nkirchen bi hundert der kindlin\ndie herodes erschlug in einem\naltar die sohend wir vnd\nsicht man noch bescheidenlich\nir hand vnd füs vnd die\nnagel dar an\nM\nerines an\ndem sūnentag früg do",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.394,
+        "cer": 0.71
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 6.292881488800049,
-    "timestamp": "2025-09-03T18:42:55.830253",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"SRIBER\",\n    \"first_name\": \"André\"\n  },\n  \"publication\": {\n    \"title\": \"Dépistage et prophylaxie de la tuberculose dans les écoles de la Seine par l'emploi périodique des cuti et percuti-réactions à la tuberculine\",\n    \"year\": 1939,\n    \"place\": \"Paris\",\n    \"pages\": \"44\",\n    \"publisher\": \"A. Legrand\",\n    \"format\": \"In-8\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1939\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"[Th. Paris. 1970]\",\n    \"publication_number\": \"No 1026\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.260152578353882,
-    "timestamp": "2025-09-05T10:58:36.668410",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Walther\",\n    \"first_name\": \"Daniel\"\n  },\n  \"publication\": {\n    \"title\": \"Gouverneur Morris (1752-1816), Témoin de Deux Révolutions. Thèse Lett. Genève. [Avec 1 portrait hors texte.]\",\n    \"year\": 1932,\n    \"place\": \"Lausanne (Suisse)\",\n    \"pages\": \"X+307 p.\",\n    \"publisher\": \"Impr. Mérinat-Brive\",\n    \"format\": \"\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": \"\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

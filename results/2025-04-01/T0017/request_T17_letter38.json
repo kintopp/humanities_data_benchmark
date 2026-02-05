@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 2.2986550331115723,
-    "timestamp": "2025-04-01T14:39:39.315384",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1938-05-24\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Werner Stauffacher\"]\n}",
-    "finish_reason": "stop"
-}

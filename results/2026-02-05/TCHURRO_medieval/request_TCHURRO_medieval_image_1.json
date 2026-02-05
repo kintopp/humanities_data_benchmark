@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, 1 folio side, good condition.</PhysicalDescription>\n    <Description>Excerpt from a narrative text, likely a letter or diary entry.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>3</PageNumber>\n    </Header>\n    <Body>\n      <Paragraph>\n        <Line>Und ein pferit die mir vnd</Line>\n        <Line>minen knechten vber hulfend</Line>\n        <Line>den do was menan kein weg</Line>\n        <Line>denne den wir machend</Line>\n        <Line>vnd vielend die knecht dick</Line>\n        <Line>vnd vil in vntz an den ans</Line>\n        <Line>vnd die pferit vntz an die</Line>\n        <Line>settel vnd was ze mol ein grosser</Line>\n        <Line>nebel dz wir kum gesachend</Line>\n        <Line>vnd also mit grosser arbeit kame</Line>\n        <Line>wir ze mittem tag zuͦ sant</Line>\n        <Line>kristoffel vff den berg do</Line>\n        <Line>do sach ich die buͦcher do gar</Line>\n        <Line>vil herren wopen in stont</Line>\n        <Line>die ir stur de hin geben hand</Line>\n        <Line>do stund mines vatters seligen</Line>\n        <Line>wopen och in dem einem</Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 60.01,
+    "timestamp": "2026-02-05T13:53:14.602299",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, 1 folio side, good condition.\nExcerpt from a narrative text, likely a letter or diary entry.\nLatin\n3\nUnd ein pferit die mir vnd\nminen knechten vber hulfend\nden do was menan kein weg\ndenne den wir machend\nvnd vielend die knecht dick\nvnd vil in vntz an den ans\nvnd die pferit vntz an die\nsettel vnd was ze mol ein grosser\nnebel dz wir kum gesachend\nvnd also mit grosser arbeit kame\nwir ze mittem tag zuͦ sant\nkristoffel vff den berg do\ndo sach ich die buͦcher do gar\nvil herren wopen in stont\ndie ir stur de hin geben hand\ndo stund mines vatters seligen\nwopen och in dem einem",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.421,
+        "cer": 0.643
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

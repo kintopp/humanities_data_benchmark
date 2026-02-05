@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 2.5170462131500244,
-    "timestamp": "2025-04-07T16:15:01.451071",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1928-04-25\"],\n    \"sender_persons\": [\"Basler Personenschiffahrtsgesellschaft\"],\n    \"receiver_persons\": [\"Basler Rheinschiffahrt A.G.\"]\n}",
-    "finish_reason": "stop"
-}

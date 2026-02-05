@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 4.532696723937988,
-    "timestamp": "2025-03-05T18:08:15.127379",
-    "text": "{\n    \"letter_title\": [\"Vorschläge für eine Vereinheitlichung des Betriebes des Personenschiffahrtsgeschäftes\"],\n    \"send_date\": [\"1928-02-18\"],\n    \"sender_persons\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"receiver_persons\": [\"Vorstand der Basler Personenschiffahrts-Gesellschaft\"]\n}",
-    "finish_reason": "stop"
-}

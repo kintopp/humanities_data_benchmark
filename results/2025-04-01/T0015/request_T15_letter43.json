@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-flash",
-    "duration": 3.294905424118042,
-    "timestamp": "2025-04-01T14:30:41.052040",
-    "text": "```json\n{\n  \"letter_title\": [\"null\"],\n  \"sender_persons\": [\"Dr. Rudolf Leupold\"],\n  \"send_date\": [\"1928-06-19\"],\n  \"receiver_persons\": [\"Basler Personenschiffahrtsgesellschaft\"]\n}\n```\n",
-    "finish_reason": "stop"
-}

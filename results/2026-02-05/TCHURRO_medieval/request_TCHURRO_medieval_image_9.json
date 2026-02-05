@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, single folio, good condition.</PhysicalDescription>\n    <Description>Chronicle entry from Königsfelden Abbey, detailing events around 1372.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Body>\n      <MarginalNote placement=\"left_margin\">\n        <Line>von zougtenā</Line>\n        <Line>uns ach ze ka</Line>\n        <Line>dia ein win</Line>\n        <Line>reb daran sohe</Line>\n        <Line>wir im frucht</Line>\n        <Line>rentteil blangt</Line>\n        <Line>noch nit vn̄</Line>\n        <Line>trübel die bluͦ</Line>\n        <Line>gten vn̄ halb</Line>\n        <Line>vn̄ gans zitig</Line>\n        <Line>were vn̄ seit</Line>\n        <Line>man uns dz diepern</Line>\n        <Line>in frucht trug</Line>\n        <Line>von ist die reb</Line>\n        <Line>gegen den spital</Line>\n        <Line>in dem kleine</Line>\n        <Line>garfusse kloster</Line>\n      </MarginalNote>\n      <Paragraph>\n        <Line>vn̄ dem erz bischoff do selbs</Line>\n        <Line>vn̄ zougk man uns dz heiltū</Line>\n        <Line>in dem thuͦn do selbs Jtf</Line>\n        <Line>seint thytus houpt der do de</Line>\n        <Line>lxxij junger einer wz Jtf ſāt</Line>\n        <Line>Berebare̅ eins kunigs vn̄ zuperj</Line>\n        <Line>tochter houpt Jtf ſant blesjen</Line>\n        <Line>aruj Jtf ſant andres aruj Jtf</Line>\n        <Line>vn̄ ſant ſteffans aruj Jtf vn̄</Line>\n        <Line>zwen zen die do ſant appolo</Line>\n        <Line>nie̅n vſgeſlagē wurdent Jtf</Line>\n        <Line>off Mentag vor ſant Joſſaus</Line>\n        <Line>tag ze Sungechten fūren wir</Line>\n        <Line>von kandia vn̄ fūrend and<Above>r</Above></Line>\n        <Line>mutwich für die jnſel ze zi</Line>\n        <Line>vn̄ kattela</Line>\n        <Line>von diepern do kam zuͦ</Line>\n        <Line>ſchifluc all gemeinlich vn̄</Line>\n        <Line>nomend all bilgerin Jre</Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 59.89,
+    "timestamp": "2026-02-05T14:01:05.554499",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, single folio, good condition.\nChronicle entry from Königsfelden Abbey, detailing events around 1372.\nLatin\nvon zougtenā\nuns ach ze ka\ndia ein win\nreb daran sohe\nwir im frucht\nrentteil blangt\nnoch nit vn̄\ntrübel die bluͦ\ngten vn̄ halb\nvn̄ gans zitig\nwere vn̄ seit\nman uns dz diepern\nin frucht trug\nvon ist die reb\ngegen den spital\nin dem kleine\ngarfusse kloster\nvn̄ dem erz bischoff do selbs\nvn̄ zougk man uns dz heiltū\nin dem thuͦn do selbs Jtf\nseint thytus houpt der do de\nlxxij junger einer wz Jtf ſāt\nBerebare̅ eins kunigs vn̄ zuperj\ntochter houpt Jtf ſant blesjen\naruj Jtf ſant andres aruj Jtf\nvn̄ ſant ſteffans aruj Jtf vn̄\nzwen zen die do ſant appolo\nnie̅n vſgeſlagē wurdent Jtf\noff Mentag vor ſant Joſſaus\ntag ze Sungechten fūren wir\nvon kandia vn̄ fūrend and\nr\nmutwich für die jnſel ze zi\nvn̄ kattela\nvon diepern do kam zuͦ\nſchifluc all gemeinlich vn̄\nnomend all bilgerin Jre",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.29,
+        "cer": 0.966
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

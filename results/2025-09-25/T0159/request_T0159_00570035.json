@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.68083930015564,
-    "timestamp": "2025-09-25T20:41:35.194825",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Ueber\",\n    \"first_name\": \"Johann\"\n  },\n  \"publication\": {\n    \"title\": \"Die Brauchbarkeit der Serumkochprobe zur Diagnose der Syphilis im 2.Stadium\",\n    \"year\": 1957,\n    \"place\": \"München\",\n    \"pages\": \"4\",\n    \"publisher\": \"\",\n    \"format\": \"\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss. München Univ. 1957 4\",\n    \"subjects\": \"Masch'schr. vervielfält.\"\n  }\n}",
-    "finish_reason": "stop"
-}

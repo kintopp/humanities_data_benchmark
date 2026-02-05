@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.368499517440796,
-    "timestamp": "2025-09-25T20:36:03.116441",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Müller\",\n    \"first_name\": \"Johannes\"\n  },\n  \"publication\": {\n    \"title\": \"Kapitalpinschuß in ein Handelsgewerbe\",\n    \"year\": 1922,\n    \"place\": \"Leipzig\",\n    \"pages\": \"45\",\n    \"publisher\": \"\",\n    \"format\": \"4°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"U 22.7051\",\n    \"subjects\": \"Maschinenschrift\"\n  }\n}",
-    "finish_reason": "stop"
-}

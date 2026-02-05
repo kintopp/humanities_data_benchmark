@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 6.425673007965088,
-    "timestamp": "2025-09-03T16:34:39.585231",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Oettinger\",\n    \"first_name\": \"Martin\"\n  },\n  \"publication\": {\n    \"title\": \"Ueber cartilaginäre Exostosen unter besonderer Berücksichtigung zweier in der kgl. chir. Poliklinik zu München beobachteter Fälle (mit 2 Röntgenaufnahmen)\",\n    \"year\": 1905,\n    \"place\": \"München\",\n    \"pages\": \"22\",\n    \"publisher\": \"Kastner & Callwey\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"München, Med. Fak.\",\n    \"year\": 1905\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"114\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

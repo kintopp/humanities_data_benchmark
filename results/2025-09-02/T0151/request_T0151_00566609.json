@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.318084955215454,
-    "timestamp": "2025-09-05T10:47:54.772874",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"SEURAT\",\n    \"first_name\": \"\"\n  },\n  \"publication\": {\n    \"title\": \"Contribution à l'étude des hy-ménoptères entomophages.\",\n    \"year\": 1899,\n    \"place\": \"Paris\",\n    \"pages\": \"159\",\n    \"publisher\": \"\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1896\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"989\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

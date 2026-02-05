@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.680826425552368,
-    "timestamp": "2025-09-25T20:47:10.949986",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Vallotton\",\n    \"first_name\": \"Pierre\"\n  },\n  \"publication\": {\n    \"title\": \"Le Christ et la foi. Étude de théologie biblique\",\n    \"year\": 1960,\n    \"place\": \"Genève\",\n    \"pages\": \"171\",\n    \"publisher\": \"Labor et Fides\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"fc 3954\",\n    \"subjects\": \"Theologie,biblische / Glaube an Christus / NK RW Diss\"\n  }\n}",
-    "finish_reason": "stop"
-}

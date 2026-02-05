@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.621738433837891,
-    "timestamp": "2025-09-05T10:44:17.496559",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Panum\",\n    \"first_name\": \"Peter\"\n  },\n  \"publication\": {\n    \"title\": \"Om Fibrinmy i Almindelighed og om dens Coagulation i Soærdeleshed.\",\n    \"year\": 1851,\n    \"place\": \"Kjøbenhavn\",\n    \"pages\": \"137\",\n    \"publisher\": \"\",\n    \"format\": \"\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Kopenhagen\",\n    \"year\": 1851\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 5.593718528747559,
-    "timestamp": "2025-09-03T21:27:25.979367",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Wittenberg\",\n    \"first_name\": \"Joachim\"\n  },\n  \"publication\": {\n    \"title\": \"Unbenutzte Warenzeichen\",\n    \"year\": 1954,\n    \"place\": \"Mainz\",\n    \"pages\": \"104\",\n    \"publisher\": \"\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Rechts- u. Wirtschaftswissenschaftl. Fak. Mainz\",\n    \"year\": 1954\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.Mainz 1954 (4°)\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

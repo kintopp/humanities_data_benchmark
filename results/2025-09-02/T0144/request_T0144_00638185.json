@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 6.010617017745972,
-    "timestamp": "2025-09-03T16:49:17.549688",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Wagner\",\n    \"first_name\": \"Wolfgang\"\n  },\n  \"publication\": {\n    \"title\": \"Stendhals Beziehung zum 18. Jahrhundert und sein Werk. (T. 1: Der Roman.)\",\n    \"year\": 1933,\n    \"place\": \"Dresden\",\n    \"pages\": \"32\",\n    \"publisher\": \"Risse-Verl.\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"Im Buchh. ebd.\"\n  },\n  \"examination\": {\n    \"place\": \"Leipzig, Phil.\",\n    \"year\": 1933\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 33: 7161\",\n    \"subjects\": \"biogr. RW. unter Stendhal, Marie Henri\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

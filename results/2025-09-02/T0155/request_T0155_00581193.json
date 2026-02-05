@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 18.743488550186157,
-    "timestamp": "2025-09-05T12:13:38.946933",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Stader\",\n    \"first_name\": \"Heinrich\"\n  },\n  \"publication\": {\n    \"title\": \"Die Wirkung von Goldpräparaten bei Lupus erythematodes und Lupus vulgaris.\",\n    \"year\": 1931,\n    \"place\": \"Erlangen\",\n    \"pages\": \"42\",\n    \"publisher\": \"Döres\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Erlangen\",\n    \"year\": 1930\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 31. 2192\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

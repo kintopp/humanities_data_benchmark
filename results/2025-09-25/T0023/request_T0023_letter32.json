@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 2.06298565864563,
-    "timestamp": "2025-09-25T20:27:11.656083",
-    "text": "{\n    \"letter_title\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"send_date\": [\"1928-05-03\"],\n    \"sender_persons\": [\"Ritter\", \"Grosshupf\"],\n    \"receiver_persons\": [\"Herrn W. Stäffacher\"]\n}",
-    "finish_reason": "stop"
-}

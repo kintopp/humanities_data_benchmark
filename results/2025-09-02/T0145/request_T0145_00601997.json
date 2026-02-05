@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-opus-20240229",
-    "duration": 8.893519639968872,
-    "timestamp": "2025-09-03T17:18:08.331495",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Tartra\",\n    \"first_name\": \"A E\"\n  },\n  \"publication\": {\n    \"title\": \"De l'opération de la cataracte. Thèse.Méd.Paris. -- Paris 1812:Dubray. --\",\n    \"year\": 1812,\n    \"place\": \"Paris\",\n    \"pages\": \"\",\n    \"publisher\": \"Dubray\",\n    \"format\": \"4'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": \n  },\n  \"library_reference\": {\n    \"shelfmark\": \"1 s 36 Bd.18 No.7\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

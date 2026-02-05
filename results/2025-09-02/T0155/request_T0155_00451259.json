@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 22.411232948303223,
-    "timestamp": "2025-09-05T11:52:33.106353",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Papastratigakis\",\n    \"first_name\": \"Constantin\"\n  },\n  \"publication\": {\n    \"title\": \"Travail du laboratoire et de la clinique des maladies mentales. Spirochète pâle et paralysie générale.\",\n    \"year\": 1916,\n    \"place\": \"Lyon\",\n    \"pages\": \"88\",\n    \"publisher\": \"\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Lyon\",\n    \"year\": 1917\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"N° 75\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.5954692363739014,
-    "timestamp": "2025-09-25T20:25:26.713628",
-    "text": "{\n    \"metadata\": {\n        \"letter_title\": [null],\n        \"send_date\": [\"1926-02-16\"],\n        \"sender_persons\": [\"Herr Dr. Max Vischer\", \"Herr Dr. Krasting\"],\n        \"receiver_persons\": [\"Herr Christ\"]\n    }\n}",
-    "finish_reason": "stop"
-}

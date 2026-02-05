@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, single folio side, good condition.</PhysicalDescription>\n    <Description>List of names and titles, possibly related to ecclesiastical appointments or records from Königsfelden Abbey.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>93</PageNumber>\n    </Header>\n    <Body>\n      <Paragraph>\n        <Line>us dem land ze</Line>\n        <Line>magglenburg</Line>\n        <Line>Cūrat hobe <Emphasis type=\"underline\">ritt</Emphasis></Line>\n        <Line>Dietrich liebzow</Line>\n        <Line>peter ein <Emphasis type=\"underline\">barfuͦb</Emphasis> <Emphasis type=\"underline\">priest</Emphasis></Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>us Luttringen</Line>\n        <Line>Jokob von <Emphasis type=\"underline\">harckurt</Emphasis> <Emphasis type=\"underline\">rit</Emphasis></Line>\n        <Line>Desiderius <Emphasis type=\"underline\">von</Emphasis> <Emphasis type=\"underline\">mirēcurt</Emphasis> <Emphasis type=\"underline\">priest</Emphasis></Line>\n        <Line>Cola von <Emphasis type=\"underline\">bayen</Emphasis> <Emphasis type=\"underline\">sin</Emphasis> <Emphasis type=\"underline\">knecht</Emphasis></Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>us <Emphasis type=\"underline\">holsten</Emphasis> land</Line>\n        <Line>Jakob <Emphasis type=\"underline\">velling</Emphasis></Line>\n        <Line>Hans <Emphasis type=\"underline\">rudbeck</Emphasis></Line>\n        <Line>Heinrich <Emphasis type=\"underline\">lang</Emphasis></Line>\n      </Paragraph>\n      <Paragraph>\n        <Line>von <Emphasis type=\"underline\">strosburg</Emphasis></Line>\n        <Line>Hans von <Emphasis type=\"underline\">benfelt</Emphasis> ein <Emphasis type=\"underline\">priest</Emphasis></Line>\n        <Line>fant <Emphasis type=\"underline\">johans</Emphasis> <Emphasis type=\"underline\">ordens</Emphasis></Line>\n      </Paragraph>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 39.26,
+    "timestamp": "2026-02-05T13:54:58.225351",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, single folio side, good condition.\nList of names and titles, possibly related to ecclesiastical appointments or records from Königsfelden Abbey.\nLatin\n93\nus dem land ze\nmagglenburg\nCūrat hobe\nritt\nDietrich liebzow\npeter ein\nbarfuͦb\npriest\nus Luttringen\nJokob von\nharckurt\nrit\nDesiderius\nvon\nmirēcurt\npriest\nCola von\nbayen\nsin\nknecht\nus\nholsten\nland\nJakob\nvelling\nHans\nrudbeck\nHeinrich\nlang\nvon\nstrosburg\nHans von\nbenfelt\nein\npriest\nfant\njohans\nordens",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.318,
+        "cer": 0.832
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

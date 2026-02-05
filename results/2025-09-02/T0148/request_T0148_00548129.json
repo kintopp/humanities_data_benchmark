@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 3.9240059852600098,
-    "timestamp": "2025-09-03T19:03:16.117134",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"Schoofs\",\n    \"first_name\": \"F\"\n  },\n  \"publication\": {\n    \"title\": \"Les impuretés des alcools, eaux-de-vie & genièvres fabriqués en Belgique\",\n    \"year\": 1912,\n    \"place\": \"Liège\",\n    \"pages\": \"111\",\n    \"publisher\": \"\",\n    \"format\": \"\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Liège\",\n    \"year\": 1912\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

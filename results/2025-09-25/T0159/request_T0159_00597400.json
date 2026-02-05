@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.486248254776001,
-    "timestamp": "2025-09-25T20:44:31.885565",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Subra\",\n    \"first_name\": \"Jules-Julien-Marie-Pierre\"\n  },\n  \"publication\": {\n    \"title\": \"De l'influence du consentement de la victime sur l'existence d'un délit et la responsabilité de l'auteur\",\n    \"year\": 1906,\n    \"place\": \"Toulouse\",\n    \"pages\": \"155\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 3.7501137256622314,
-    "timestamp": "2025-09-03T19:18:09.641498",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"Wörz\",\n    \"first_name\": \"Walter\"\n  },\n  \"publication\": {\n    \"title\": \"Ein Fall von Osteomyelitis acuta traumatica des Oberkiefers\",\n    \"year\": 1934,\n    \"place\": \"\",\n    \"pages\": \"36\",\n    \"publisher\": \"\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Tübingen\",\n    \"year\": 1934\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 34. 5324\",\n    \"subjects\": \"Med. Diss.\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 8.473588943481445,
-    "timestamp": "2025-09-03T21:13:17.718331",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Simon\",\n    \"first_name\": \"Serge\"\n  },\n  \"publication\": {\n    \"title\": \"Travail du laboratoire de M. le docteur Lesné à l'hôpital Trousseau. Huile de foie de morue et rachitisme expérimental.\",\n    \"year\": 1926,\n    \"place\": \"Paris\",\n    \"pages\": \"\",\n    \"publisher\": \"\",\n    \"format\": \"in-8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1926\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"N° 450\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

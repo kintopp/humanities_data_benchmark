@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "mistral-medium-2508",
-    "duration": 3.6835312843322754,
-    "timestamp": "2025-09-26T09:14:47.992629",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Nuyens\",\n    \"first_name\": \"Michel\"\n  },\n  \"publication\": {\n    \"title\": \"Le statut obligatoire des décurions dans le droit constantinien\",\n    \"year\": 1964,\n    \"place\": \"Louvain\",\n    \"pages\": \"332\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1965,5765\",\n    \"subjects\": \"Verwaltung, römische/Römisches Recht/Staatsrecht\"\n  }\n}",
-    "finish_reason": "stop"
-}

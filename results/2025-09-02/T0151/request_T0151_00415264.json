@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.0551252365112305,
-    "timestamp": "2025-09-05T10:39:42.872208",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"MONTFAJON\",\n    \"first_name\": \"Clément\"\n  },\n  \"publication\": {\n    \"title\": \"Firmin Abauzit, réfugié français à Genève après la Révocation de l'Édit de Nantes, 1679-1767\",\n    \"year\": 1890,\n    \"place\": \"Le Vigan\",\n    \"pages\": \"103 p.\",\n    \"publisher\": \"\",\n    \"format\": \"in-8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Montauban\",\n    \"year\": 1890\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Th. théol.\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

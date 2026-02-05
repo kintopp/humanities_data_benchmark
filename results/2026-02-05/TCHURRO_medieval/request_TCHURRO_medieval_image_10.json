@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, single folio side, good condition.</PhysicalDescription>\n    <Description>List of names, likely attendees or parties involved in a legal or administrative matter.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>73</PageNumber>\n    </Header>\n    <Body>\n      <List type=\"unordered\">\n        <Item>\n          <Line>Jch zuͦ dem ersten Myn herˀn graff Albrecht vō</Line>\n          <Line>Anhalt</Line>\n        </Item>\n        <Item>\n          <Line>Jch her Ludwig Lantgraff von Lichtenberg</Line>\n        </Item>\n        <Item>\n          <Line>Jch groff Ott von Hennenberg</Line>\n        </Item>\n        <Item>\n          <Line>Jch groff Bernhart von Regenstein</Line>\n        </Item>\n        <Item>\n          <Line>Jch groff Gottfried von Hohenloch</Line>\n        </Item>\n        <Item>\n          <Line>Jch groff Gebhart von Mansfeld</Line>\n        </Item>\n        <Item>\n          <Line>Jch groff Ludwig von Isenburg</Line>\n        </Item>\n        <Item>\n          <Line>Jch her Gotthalc von Bless <Addition>et</Addition> Bedpanchˀn</Line>\n        </Item>\n        <Item>\n          <Line>Jch her Hans von Turgow</Line>\n        </Item>\n        <Item>\n          <Line>Jch Jerg Bappenheim</Line>\n        </Item>\n        <Item>\n          <Line>Jch her Buppin von Stein wz vorhin Ritter</Line>\n        </Item>\n        <Item>\n          <Line>Jch Lucz von Rotenhan</Line>\n        </Item>\n        <Item>\n          <Line>Jch Jerg von Waldenfels</Line>\n        </Item>\n        <Item>\n          <Line>Jch Hylbrand von Thuͦngen</Line>\n        </Item>\n        <Item>\n          <Line>Jch Jerg von Slieben</Line>\n        </Item>\n        <Item>\n          <Line>Jch Henÿn quast</Line>\n        </Item>\n      </List>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 33.53,
+    "timestamp": "2026-02-05T13:53:48.253144",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, single folio side, good condition.\nList of names, likely attendees or parties involved in a legal or administrative matter.\nLatin\n73\nJch zuͦ dem ersten Myn herˀn graff Albrecht vō\nAnhalt\nJch her Ludwig Lantgraff von Lichtenberg\nJch groff Ott von Hennenberg\nJch groff Bernhart von Regenstein\nJch groff Gottfried von Hohenloch\nJch groff Gebhart von Mansfeld\nJch groff Ludwig von Isenburg\nJch her Gotthalc von Bless\net\nBedpanchˀn\nJch her Hans von Turgow\nJch Jerg Bappenheim\nJch her Buppin von Stein wz vorhin Ritter\nJch Lucz von Rotenhan\nJch Jerg von Waldenfels\nJch Hylbrand von Thuͦngen\nJch Jerg von Slieben\nJch Henÿn quast",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.346,
+        "cer": 0.736
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

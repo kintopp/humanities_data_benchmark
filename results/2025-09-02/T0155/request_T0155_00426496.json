@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 18.306996822357178,
-    "timestamp": "2025-09-05T11:36:28.914897",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γρηγόριος Πακουριανὸς μέγας δομέστικος τῆς Δύσεως καὶ τὸ ὑπ' αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτόκου τῆς Πετριτζονιτίσσης.... (Aus: Dissertationes Ienenses IV.)\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"2 Bl. + 135-210\",\n    \"publisher\": \"B. G. Teubneri\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Jena\",\n    \"year\": 1888\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

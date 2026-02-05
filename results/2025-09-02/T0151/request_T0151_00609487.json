@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 7.482760667800903,
-    "timestamp": "2025-09-05T10:53:39.060728",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"THOUVIGNON\",\n    \"first_name\": \"Marcelle\"\n  },\n  \"publication\": {\n    \"title\": \"De la Suspension des poursuites d'exécution par voie de référé (modifications à l'article 1244 du Code civil)\",\n    \"year\": 1937,\n    \"place\": \"Paris\",\n    \"pages\": \"122\",\n    \"publisher\": \"les Presses universitaires de France\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Université de Paris. Facult de droit\",\n    \"year\": \"\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"F. 39954\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

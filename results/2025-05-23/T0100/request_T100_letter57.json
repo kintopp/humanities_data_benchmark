@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 5.25562310218811,
-    "timestamp": "2025-05-23T11:12:14.146740",
-    "text": "{\n    \"letter_title\": [\"Darlehen für den Bau des neuen Personenschiffes\"],\n    \"send_date\": [\"1932-10-15\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Dr. Max Vischer\"]\n}",
-    "finish_reason": "stop"
-}

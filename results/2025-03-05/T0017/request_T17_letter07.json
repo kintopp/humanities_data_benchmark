@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 2.6926512718200684,
-    "timestamp": "2025-03-05T18:07:51.087427",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1926-06-22\"],\n    \"sender_persons\": [\"Basler Rheinschiffahrt-Aktiengesellschaft\"],\n    \"receiver_persons\": [\"P. Christ - Wackernagel\"]\n}",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "mistral-medium-2505",
-    "duration": 2.6806607246398926,
-    "timestamp": "2025-09-26T09:35:05.311719",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Stark\",\n    \"first_name\": \"Hans\"\n  },\n  \"publication\": {\n    \"title\": \"Die Entwicklung des Steinkohlenbergbaues in der Stadt Buer i. W.\",\n    \"year\": 1933,\n    \"place\": \"Köln\",\n    \"pages\": \"79\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"U 33 6835\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

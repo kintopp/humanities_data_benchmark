@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 8.562947988510132,
-    "timestamp": "2025-09-03T21:29:23.695975",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Ziden\",\n    \"first_name\": \"Fikri\"\n  },\n  \"publication\": {\n    \"title\": \"Die Objektivierung der Ermüdung durch das Elektroencephalogramm\",\n    \"year\": 1968,\n    \"place\": \"Tübingen\",\n    \"pages\": \"20\",\n    \"format\": \"8°\",\n    \"publisher\": \"\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Tübingen\",\n    \"year\": 1968\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1969,7160\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Elektroencephalographie/Ermüdung/ Diss\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.735975980758667,
-    "timestamp": "2025-09-05T10:59:29.084711",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Wehmeyer\",\n    \"first_name\": \"Waltraut\"\n  },\n  \"publication\": {\n    \"title\": \"Die Produktionsanlagen als Datum und Objekt unternehmerischer Dispositionen\",\n    \"year\": 1960,\n    \"place\": \"München\",\n    \"pages\": \"250,XVI\",\n    \"publisher\": \"Staatswirtsch. Fak. Univ.München\",\n    \"format\": \"4'\",\n    \"reprint_note\": \"[Maschinenschrift]\"\n  },\n  \"examination\": {\n    \"place\": \"\",\n    \"year\": \"\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.München Univ.1960\",\n    \"publication_number\": \"\",\n    \"subjects\": \"4/Unternehmen.Führung/Investition, betriebswirtschaftliche/Betriebswirtschaftslehre/Produktionsmittel/\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

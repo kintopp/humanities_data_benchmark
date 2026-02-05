@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, single folio side, good condition.</PhysicalDescription>\n    <Description>List of names, possibly from a register or inventory.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <PageNumber>90</PageNumber>\n    </Header>\n    <Body>\n      <List type=\"unordered\">\n        <Item>\n          <Line>Heinrich von Külstetten</Line>\n        </Item>\n        <Item>\n          <Line>ein barfues</Line>\n        </Item>\n        <Item>\n          <Line>Conradus der schriben</Line>\n        </Item>\n        <Item>\n          <Line>ob dem stift von</Line>\n          <Line>mentz</Line>\n        </Item>\n        <Item>\n          <Line>Hans Loſli camētar ze mentz</Line>\n        </Item>\n        <Item>\n          <Line>ſant Johans ordens</Line>\n        </Item>\n        <Item>\n          <Line>Heinrich von wiſſerode</Line>\n          <Line>ritt</Line>\n        </Item>\n        <Item>\n          <Line>Heinrich ſmit ſin knecht</Line>\n        </Item>\n        <Item>\n          <Line>von Bern ob</Line>\n          <Line>ochtländ</Line>\n        </Item>\n        <Item>\n          <Line>ludwig von Dieſbach</Line>\n        </Item>\n        <Item>\n          <Line>Hans von der gruͦben</Line>\n        </Item>\n        <Item>\n          <Line>Hans Vlman</Line>\n        </Item>\n      </List>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 30.4,
+    "timestamp": "2026-02-05T13:54:18.800670",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, single folio side, good condition.\nList of names, possibly from a register or inventory.\nLatin\n90\nHeinrich von Külstetten\nein barfues\nConradus der schriben\nob dem stift von\nmentz\nHans Loſli camētar ze mentz\nſant Johans ordens\nHeinrich von wiſſerode\nritt\nHeinrich ſmit ſin knecht\nvon Bern ob\nochtländ\nludwig von Dieſbach\nHans von der gruͦben\nHans Vlman",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.342,
+        "cer": 0.781
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

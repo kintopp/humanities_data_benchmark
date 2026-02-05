@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 6.9706690311431885,
-    "timestamp": "2025-09-03T19:13:59.775231",
-    "text": "```json\n{\n  \"type\": \"Dissertation or thesis\",\n  \"author\": {\n    \"last_name\": \"Volodarsky\",\n    \"first_name\": \"\"\n  },\n  \"publication\": {\n    \"title\": \"Injections intracérébrales de sérum chez les animaux séro-anaphylactisés. (Travail fait à l'Institut de Physiologie de l'Université de Lausanne.)\",\n    \"year\": 1910,\n    \"place\": \"Lausanne\",\n    \"pages\": \"24\",\n    \"publisher\": \"Imprimerie de l'Université\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Lausanne\",\n    \"year\": 1910\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Thèse méd.\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

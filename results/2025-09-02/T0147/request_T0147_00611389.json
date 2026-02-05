@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 6.3277270793914795,
-    "timestamp": "2025-09-03T18:47:20.619853",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Tinschert\",\n    \"first_name\": \"Franz\"\n  },\n  \"publication\": {\n    \"title\": \"Untersuchungen über den Tuberkel-bazillengehalt der Milch tuberkulöser Kühe\",\n    \"year\": 1908,\n    \"place\": \"Gießen\",\n    \"pages\": \"46\",\n    \"publisher\": \"Leistner & Drewis, Magdeburg\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Gießen\",\n    \"year\": 1909\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 09. 1184\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

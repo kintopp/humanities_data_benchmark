@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.727230548858643,
-    "timestamp": "2025-09-05T10:42:02.542804",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Neubauer\",\n    \"first_name\": \"Horst\"\n  },\n  \"publication\": {\n    \"title\": \"Der Arbeitsvertrag in der neueren Gesetzgebung des Auslandes. Tendenzen u. bemerkenswerte Einzelbestimmungen, bes. im Hinblick auf d. deutsch. Entwurf eines allg. Arbeitsvertragsgesetzes.\",\n    \"year\": 1927,\n    \"place\": \"Görlitz\",\n    \"pages\": \"107\",\n    \"publisher\": \"Hoffmann & Reiber\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Breslau\",\n    \"year\": 1927\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"R.- u. staatswiss. Diss. v. 2. März\",\n    \"publication_number\": \"U 27.758\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

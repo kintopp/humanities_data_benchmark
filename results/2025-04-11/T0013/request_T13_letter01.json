@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 9.095374584197998,
-    "timestamp": "2025-04-09T21:48:34.877605",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1926-02-16\"],\n    \"sender_persons\": [\"RHEINSCHIFFAHRT-AKTIENGESELLSCHAFT\"],\n    \"receiver_persons\": [\"Herrn Christ\"]\n}\n```",
-    "finish_reason": "stop"
-}

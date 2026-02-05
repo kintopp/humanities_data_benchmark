@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 5.423619270324707,
-    "timestamp": "2025-09-03T18:54:16.303359",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Wieber\",\n    \"first_name\": \"Gustav\"\n  },\n  \"publication\": {\n    \"title\": \"Aus d.",
-    "finish_reason": "stop"
-}

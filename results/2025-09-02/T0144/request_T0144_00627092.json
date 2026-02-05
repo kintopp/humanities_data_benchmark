@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 5.612514019012451,
-    "timestamp": "2025-09-03T16:48:10.413697",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"VERHAEGHE\",\n    \"first_name\": \"Etienne\"\n  },\n  \"publication\": {\n    \"title\": \"Contribution à l'étude clinique et expérimentale des transplantations hétéroplastiques d'os frais. Quelques essais de transplantations hétéroplastiques ostéoarticulaires et périostiques\",\n    \"year\": 1908,\n    \"place\": \"Lille\",\n    \"pages\": \"194\",\n    \"publisher\": \"\",\n    \"format\": \"in-8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Lille\",\n    \"year\": 1908\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"N° 5\",\n    \"subjects\": \"Th. méd. 1908-1909\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

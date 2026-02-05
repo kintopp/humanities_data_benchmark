@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.363439559936523,
-    "timestamp": "2025-09-05T10:50:10.701514",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Spiritus\",\n    \"first_name\": \"Paul\"\n  },\n  \"publication\": {\n    \"title\": \"Inwieweit muss sich die Zivilbevölkerung vermögensrechtliche Beschränkungen zu Gunsten der Militärgewalt im Frieden gefallen lassen?\",\n    \"year\": 1910,\n    \"place\": \"Bonn\",\n    \"pages\": \"50\",\n    \"publisher\": \"Georgi\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Heidelberg\",\n    \"year\": 1910\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 10. 2023\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

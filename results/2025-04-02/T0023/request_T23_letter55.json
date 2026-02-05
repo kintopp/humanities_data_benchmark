@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.450733661651611,
-    "timestamp": "2025-04-02T21:14:49.069493",
-    "text": "```json\n{\n    \"letter_title\": [\"Verein für die Schifffahrt auf dem Oberrhein\"],\n    \"send_date\": [\"1932-10-10\"],\n    \"sender_persons\": [\"Jean Frey\"],\n    \"receiver_persons\": [\"Herr Dr. Max Vischer, Advokat\"]\n}\n```",
-    "finish_reason": "stop"
-}

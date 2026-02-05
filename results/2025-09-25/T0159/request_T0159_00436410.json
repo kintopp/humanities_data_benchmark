@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.275491237640381,
-    "timestamp": "2025-09-25T20:37:17.978754",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Nilsson\",\n    \"first_name\": \"Nils\"\n  },\n  \"publication\": {\n    \"title\": \"Some results in the spectral theory of partial differential operators\",\n    \"year\": 1965,\n    \"place\": \"Lund\",\n    \"pages\": \"3\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.1965,5696\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.068396091461182,
-    "timestamp": "2025-04-10T07:06:35.139699",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1935-09-09\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Basler Rheinschiffahrtsaktiongesellschaft Direktion\", \"Marktgasse 6\"]\n}\n```",
-    "finish_reason": "stop"
-}

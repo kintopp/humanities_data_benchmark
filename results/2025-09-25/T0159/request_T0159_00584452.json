@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.025629281997681,
-    "timestamp": "2025-09-25T20:43:37.784029",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Stefanoff\",\n    \"first_name\": \"\"\n  },\n  \"publication\": {\n    \"title\": \"Contribution à l'étude de la valeur de la colpopérinéorraphie dans le traitement des grands prolapsus utérins.\",\n    \"year\": 1935,\n    \"place\": \"Montpellier\",\n    \"pages\": \"106\",\n    \"publisher\": \"impr. de Mari-Lavit\",\n    \"format\": \"In-8\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

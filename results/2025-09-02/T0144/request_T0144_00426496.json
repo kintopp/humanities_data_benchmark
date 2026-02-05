@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-7-sonnet-20250219",
-    "duration": 7.157516956329346,
-    "timestamp": "2025-09-03T16:32:39.905249",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Musaeus\",\n    \"first_name\": \"Georgius\"\n  },\n  \"publication\": {\n    \"title\": \"Γεωργίος Πεκουριανὸς μέγας δομέστικος τῆς Δύσεως καὶ τὸ ὑπ' αὐτοῦ τυπικὸν τῆς μονῆς τῆς Θεοτόκου τῆς Πετριζονιτίσσης\",\n    \"year\": 1888,\n    \"place\": \"Lipsiae\",\n    \"pages\": \"2 Bl. + S. 155-210\",\n    \"publisher\": \"typ. B. G. Teubner\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"(Aus: Dissertationes Ienenses IV.)\"\n  },\n  \"examination\": {\n    \"place\": \"Jena, Phil. Fak.\",\n    \"year\": 1888\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

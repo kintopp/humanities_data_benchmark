@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-pro-exp-02-05",
-    "duration": 10.008216857910156,
-    "timestamp": "2025-04-01T15:16:13.386532",
-    "text": "```json\n{\n    \"letter_title\": [\n        null\n    ],\n    \"send_date\": [\n        \"1932-10-07\"\n    ],\n    \"sender_persons\": [\n        \"M. Meltzer-Kiss\"\n    ],\n    \"receiver_persons\": [\n        \"Vorstandsmitglieder der Basler Personenschifffahrtsgesellschaft\"\n    ]\n}\n```",
-    "finish_reason": "stop"
-}

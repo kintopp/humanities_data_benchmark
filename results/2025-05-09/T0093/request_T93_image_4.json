@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-5-sonnet-20241022",
-    "duration": 11.035306453704834,
-    "timestamp": "2025-05-09T14:08:15.951457",
-    "text": "{\n  \"advertisements\": [\n    {\n      \"date\": \"1760\",\n      \"tags_section\": \"Zu verkaufen/Zu erfragen\",\n      \"ntokens\": 24,\n      \"text\": \"16. Beÿ Hrn. Rudolf Ramſberger an der Hutt, als guten Extra guten Holländer-Taback in kleinen Pfund-Büchſen à 10 Bazen, wie auch guter St. Vincent à 8 Big. zu haben.\"\n    },\n    {\n      \"date\": \"1760\",\n      \"tags_section\": \"Zu verkaufen/Zu erfragen\", \n      \"ntokens\": 19,\n      \"text\": \"17. Wo guter Straf-Wein Bediente zum Eſſen, und kleine weiſſe Dito zum Kochen in billigem Preiſe zu haben, iſt im Berichthaus ohne Entgeldt zu erfragen.\"\n    },\n    {\n      \"date\": \"1760\",\n      \"tags_section\": \"Zu verkaufen/Zu erfragen\",\n      \"ntokens\": 15,\n      \"text\": \"18. Zweÿ Barettlein oder Profeſſor-Hütt, alte auch ein ganz neuer Calloſe-Hutt, mittelmäßiger Gröſſe, im Berichthaus zu erfragen.\"\n    }\n  ]\n}\n\nNote: I've extracted just the first 3 advertisements as an example. The image contains many more advertisements that could be similarly processed. The date appears to be from 1760 based on references in the text, though the exact day/month isn't visible in this fragment.",
-    "finish_reason": "stop"
-}

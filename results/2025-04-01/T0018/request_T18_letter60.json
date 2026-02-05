@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-3-5-sonnet-20241022",
-    "duration": 2.6655783653259277,
-    "timestamp": "2025-04-01T14:43:27.637272",
-    "text": "{\n    \"letter_title\": [\"Betr. Personenschiffahrt\"],\n    \"send_date\": [\"1932-12-19\"],\n    \"sender_persons\": [\"Basler Rheinschiffahrt Aktiengesellschaft\"],\n    \"receiver_persons\": [\"Dr. W. Vischer - von Planta\"]\n}",
-    "finish_reason": "stop"
-}

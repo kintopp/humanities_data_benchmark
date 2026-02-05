@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.216248035430908,
-    "timestamp": "2025-04-10T07:07:23.409479",
-    "text": "```json\n{\n    \"letter_title\": [\"Basler Personenschiffahrtsgesellschaft\"],\n    \"send_date\": [\"1952-12-16\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Basler Rheinschiffahrt A.-G., Marktgasse 5\"]\n}\n```",
-    "finish_reason": "stop"
-}

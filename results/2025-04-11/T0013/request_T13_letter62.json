@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 7.088091850280762,
-    "timestamp": "2025-04-09T21:53:54.306593",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1933-07-04\"],\n    \"sender_persons\": [\"Ing.W.A. Wacker\", \"Celius Gsellnger\"],\n    \"receiver_persons\": [\"Sehr geehrte Herren\"]\n}\n```",
-    "finish_reason": "stop"
-}

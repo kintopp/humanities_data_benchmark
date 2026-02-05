@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.5-pro",
-    "duration": 19.584243059158325,
-    "timestamp": "2025-09-05T12:13:20.198434",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Stabryła\",\n    \"first_name\": \"Stanisław\"\n  },\n  \"publication\": {\n    \"title\": \"Latin tragedy in Virgil's poetry.\",\n    \"year\": 1970,\n    \"place\": \"Wrocław, Warszawa,Kraków\",\n    \"pages\": \"142\",\n    \"publisher\": \"Zakład Narodowy im.Ossolińskich Wydawnictwo Polskiej Akademii Nauk\",\n    \"format\": \"8'\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Cracow\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Philol.Zs.945 Nr.10\",\n    \"publication_number\": \"\",\n    \"subjects\": \"2/Tragödie,römische/Vergil.Aeneis/ KPh NK GK Diss\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

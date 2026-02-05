@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.0441484451293945,
-    "timestamp": "2025-03-05T15:46:47.658648",
-    "text": "```json\n{\n    \"letter_title\": [],\n    \"send_date\": [\"1929-05-27\"],\n    \"sender_persons\": [],\n    \"receiver_persons\": [\"F. Lässle Schwab\"]\n}\n```",
-    "finish_reason": "stop"
-}

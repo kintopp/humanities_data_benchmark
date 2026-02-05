@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.7463386058807373,
-    "timestamp": "2025-04-10T07:02:35.079766",
-    "text": "```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1926-03-29\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Herrn Dr. M. Kresting\"]\n}\n```",
-    "finish_reason": "stop"
-}

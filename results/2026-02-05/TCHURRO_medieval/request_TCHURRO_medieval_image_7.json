@@ -1,0 +1,32 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Parchment, 1 folio, good condition.</PhysicalDescription>\n    <Description>Chronicle entry from a medieval manuscript, likely detailing events in Venice.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Body>\n      <Paragraph>\n        <Line>Des selben tags gon falzion In der wur</Line>\n        <Line>gen Jtſ an dem baluntag der do wz</Line>\n        <Line>der ſubenzelſende tag Rittin wir</Line>\n        <Line>gon felters Jtſ an dem achzehende</Line>\n        <Line>tag gon terfis vnd bliben zwey</Line>\n        <Line>tag do vnd furen an dem hohen</Line>\n        <Line>deuſtag der do wz der acht vn̄</Line>\n        <Line>zweuzigſt tag des merzenj vff</Line>\n        <Line>dem waſſer vō terfis gon venedig</Line>\n        <Line>Jtſ an dem oſterben der do wz der</Line>\n        <Line>leſt tag ain merzenj do ſolhen wir</Line>\n        <Line>etwe manigen ſittkuren vnd groſſe</Line>\n        <Line>ſchiff als mechtige huer ſohe</Line>\n        <Line>wir ſant marx münſter vnd des</Line>\n        <Line>hertzogen palast der ist zemol ſchon</Line>\n        <Line>vn̄ ſtoud daruff vil heruͦ Ritter</Line>\n        <Line>vnd knechten wapen die dem</Line>\n        <Line>ze venedig geweſen ſind do ist</Line>\n        <Line>ein Cappell an dem minſter do ist</Line>\n        <Line>der ſtein in eurealtie gevasset do</Line>\n        <Line>uͦſer behalter Jtſs xp̄s vff ſal</Line>\n      </Paragraph>\n      <MarginalNote placement=\"left_margin\">\n        <Line>Vene</Line>\n        <Line>Ducis</Line>\n        <Line>palatu</Line>\n        <Line>ma</Line>\n        <Line>cu</Line>\n      </MarginalNote>\n    </Body>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 52.68,
+    "timestamp": "2026-02-05T13:59:14.273808",
+    "parsed": {
+        "folios": [
+            {
+                "folio": "",
+                "text": "German\nltr\nParchment, 1 folio, good condition.\nChronicle entry from a medieval manuscript, likely detailing events in Venice.\nLatin\nDes selben tags gon falzion In der wur\ngen Jtſ an dem baluntag der do wz\nder ſubenzelſende tag Rittin wir\ngon felters Jtſ an dem achzehende\ntag gon terfis vnd bliben zwey\ntag do vnd furen an dem hohen\ndeuſtag der do wz der acht vn̄\nzweuzigſt tag des merzenj vff\ndem waſſer vō terfis gon venedig\nJtſ an dem oſterben der do wz der\nleſt tag ain merzenj do ſolhen wir\netwe manigen ſittkuren vnd groſſe\nſchiff als mechtige huer ſohe\nwir ſant marx münſter vnd des\nhertzogen palast der ist zemol ſchon\nvn̄ ſtoud daruff vil heruͦ Ritter\nvnd knechten wapen die dem\nze venedig geweſen ſind do ist\nein Cappell an dem minſter do ist\nder ſtein in eurealtie gevasset do\nuͦſer behalter Jtſs xp̄s vff ſal\nVene\nDucis\npalatu\nma\ncu",
+                "addition1": ""
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.397,
+        "cer": 0.674
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

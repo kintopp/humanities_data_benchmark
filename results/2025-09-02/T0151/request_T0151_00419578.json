@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 5.1480560302734375,
-    "timestamp": "2025-09-05T10:40:22.535066",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Mühlhaus\",\n    \"first_name\": \"Richard\"\n  },\n  \"publication\": {\n    \"title\": \"Untersuchungen des Blutbildes bei akuten u. chronischen Osteomyelitiden\",\n    \"year\": 1927,\n    \"place\": \"München\",\n    \"pages\": \"17\",\n    \"publisher\": \"Wolf\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"München\",\n    \"year\": 1928\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"U 28. 5030\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

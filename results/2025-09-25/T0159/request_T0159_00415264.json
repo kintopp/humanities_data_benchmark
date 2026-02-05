@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 2.686594009399414,
-    "timestamp": "2025-09-25T20:35:15.069464",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Montfajon\",\n    \"first_name\": \"Clément\"\n  },\n  \"publication\": {\n    \"title\": \"Le Vigan\",\n    \"year\": 1690,\n    \"place\": \"Montauban\",\n    \"pages\": \"103\",\n    \"publisher\": \"\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}

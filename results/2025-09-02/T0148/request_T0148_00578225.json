@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-sonnet-4-20250514",
-    "duration": 4.383345603942871,
-    "timestamp": "2025-09-03T19:06:51.642310",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"SPÉDER\",\n    \"first_name\": \"\"\n  },\n  \"publication\": {\n    \"title\": \"De l'hydrate de chloral\",\n    \"year\": 1857,\n    \"place\": \"Montpellier\",\n    \"pages\": \"34\",\n    \"publisher\": \"\",\n    \"format\": \"in-4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Montpellier\",\n    \"year\": 1857\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"N° 465\",\n    \"subjects\": \"Th. pharm. 1856-57\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

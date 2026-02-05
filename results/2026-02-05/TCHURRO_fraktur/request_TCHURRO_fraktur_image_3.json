@@ -1,0 +1,112 @@
+{
+    "text": "<HistoricalDocument xmlns=\"http://example.com/historicaldocument\">\n  <Metadata>\n    <Language>German</Language>\n    <WritingDirection>ltr</WritingDirection>\n    <PhysicalDescription>Single printed newspaper page, likely from a bound volume.</PhysicalDescription>\n    <Description>Sechstes Stück, Nachrichten aus dem Bericht-Haus zu Basel, Donnerstags, den 11. Hornung 1762. Contains advertisements and news items.</Description>\n    <Script>Latin</Script>\n  </Metadata>\n  <Page>\n    <Header>\n      <Heading type=\"running_title\">\n        <Line>Sechstes Stück</Line>\n      </Heading>\n      <PageNumber>29</PageNumber>\n      <Heading type=\"main\">\n        <Line>Nachrichten</Line>\n        <Line>aus dem Bericht-Haus zu Basel.</Line>\n      </Heading>\n      <Heading type=\"sub\">\n        <Line>Donnerstags, den 11. Hornung 1762.</Line>\n      </Heading>\n    </Header>\n    <Body>\n      <Heading type=\"sub\">\n        <Line>Es wird zum Verkauf angetragen:</Line>\n      </Heading>\n      <List type=\"ordered\">\n        <Item>\n          <Line>1. Bey weme extra schöne frische Damaſcener</Line>\n          <Line>Meertrauben ohne Kammern in billigem Preis</Line>\n          <Line>und beliebiger Quantität zu haben, iſt im Be-</Line>\n          <Line>richthaus ohne Entgeldt zu vernehmen.</Line>\n        </Item>\n        <Item>\n          <Line>2. Ein Kuchin-Känſterlein; Item ein Schleif-</Line>\n          <Line>Stein mit einem Stock in billigem Preis, im</Line>\n          <Line>Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>3. Bey Jungfr. Meyerin an der Huthgaß ſind</Line>\n          <Line>frische angelangte ſüſſe Pickings in billigem</Line>\n          <Line>Preis zu haben.</Line>\n        </Item>\n        <Item>\n          <Line>4. Im Gaſthof zur Blumen iſt guter alter Honig</Line>\n          <Line>die Maaß à 12 Batzen. Item Emdt à 12 Btz.</Line>\n          <Line>der Centner. Ferner ſchöne gelbe Weyden in</Line>\n          <Line>billigem Preis zu haben.</Line>\n        </Item>\n        <Item>\n          <Line>5. Bey weme ſchöne gelbe, weiſſe und ſchächtigte</Line>\n          <Line>Canarien-Vögelein Männl. und Weibl. in bil-</Line>\n          <Line>ligem Preis zu haben, iſt im Berichthaus zu</Line>\n          <Line>vernehmen.</Line>\n        </Item>\n        <Item>\n          <Line>6. Acht Saum guter rother Landwein à 10</Line>\n          <Line>Pfund der Saum. Solte er aber zugleich mit</Line>\n          <Line>einander genommen werden à 9 Pfund, weil</Line>\n          <Line>man das Stücklein gern auf einmal lären</Line>\n          <Line>möchte; Er wäre kauglich für einen Wirth in</Line>\n          <Line>der Stadt oder auf der Landſchaft, wovon</Line>\n          <Line>Muſter zu haben bey Hrn. Franz Lucas Lin-</Line>\n          <Line>der dem Kuefer in der kleinen Stadt, leydet</Line>\n          <Line>aber nicht lang Verzug.</Line>\n        </Item>\n        <Item>\n          <Line>7. Bey Frau Steinbrunn in klein Baſel ſind un-</Line>\n          <Line>gefehr 3 Saum rother Crenzacher-Wein von</Line>\n          <Line>1753, davon man Ohmenweis haben kan;</Line>\n          <Line>ſolte er aber mit einander genommen werden,</Line>\n          <Line>ſo wurde man ſehr billigen Preis machen.</Line>\n        </Item>\n        <Item>\n          <Line>8. Ein Stock ſchönes ferndriges unberegnetes</Line>\n          <Line>Emdt gleich vor dem Riechemer-Thor, und</Line>\n          <Line>iſt ſich darum bey Hrn. Appellations-Rath</Line>\n          <Line>Ryhiner auf dem Adelberg anzumelden.</Line>\n        </Item>\n        <Item>\n          <Line>9. Eine Büffet-Uhr mit einer Feder und ſchönen</Line>\n          <Line>Gehäus, die 8 Tag geht und Viertel repetirt,</Line>\n          <Line>in billigem Preis, im Berichthaus zu erfra-</Line>\n          <Line>gen.</Line>\n        </Item>\n        <Item>\n          <Line>10. Zehen Saum weiſſer Margräfer Wyler-Wein</Line>\n          <Line>von 1753. in billigem Preis, im Berichthaus</Line>\n          <Line>zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>11. Eine ſchöne nußbaumerne Bethladen für 2.</Line>\n          <Line>Perſonen, mit Schrauben. Item eine Caſſe</Line>\n          <Line>von dickem eichenem Holz, ſchwarz angeſtri-</Line>\n          <Line>chen mit einem extra guten Schloß und Schlen-</Line>\n          <Line>ken zu einem Maaſchloß mit eiſern Spangen</Line>\n          <Line>wohl beſchlagen, am Deckel inwendig mit</Line>\n          <Line>Haacken, auf einem grünen Fuß, à 6 Pfund.</Line>\n          <Line>Ein Gewicht-Bräter ſamt 2 Spiſſen, Seil,</Line>\n          <Line>Schrauben, Stein und Zugehördt: Item</Line>\n          <Line>eine groſſe kupferne Caſſe derrolle faſt neu, dito</Line>\n          <Line>eine tiefe Küchlein-Pfanne; Zwo noch faſt neue</Line>\n          <Line>Rollen, wohl mit ſtarkem Eiſen verſehen ſamt</Line>\n          <Line>einer Kette, Seil und Stein, alles in billi-</Line>\n          <Line>gem Preis, im Berichthaus ohne Entgeldt zu</Line>\n          <Line>erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>12. Bey Meiſter Daniel Pfifter im Doctor-Gar-</Line>\n          <Line>ten ſind ſchöne Ranunkeln-Wurzen und auch</Line>\n          <Line>Gold-Lilien oder Narciſſus Indicus Jacobeus</Line>\n          <Line>in billigem Preis, im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>13. Ein modenfarbes tuchenes Kleid in billigem</Line>\n          <Line>Preis, im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>14. Bey ſchönem Wetter eingeſammeltes Heu und</Line>\n          <Line>dito Emdt vom vorigen Jahr, in billigem</Line>\n          <Line>Preis, im Berichthaus zu erfragen.</Line>\n        </Item>\n        <Item>\n          <Line>15. Wo folgende Bücher zu haben, iſt im Be-</Line>\n          <Line>richthaus zu erfragen: Munsters Cosmogra-</Line>\n          <Line>phie, Brandes allgemeine Chronica, Hedio-</Line>\n          <Line>nis Kirchenhiſtorie, Joſephii Jüdiſche Geſchich-</Line>\n          <Line>ten, Sleidani Hiſtorie, alles wohl gebunden,</Line>\n          <Line>im Berichthaus zu erfragen.</Line>\n        </Item>\n      </List>\n    </Body>\n    <Footer>\n      <CatchWord>16. Bey</CatchWord>\n    </Footer>\n  </Page>\n</HistoricalDocument>",
+    "model": "Churro",
+    "model_id": "stanford-oval/churro-3B",
+    "provider": "local-mlx",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "estimated_cost_usd": 0.0
+    },
+    "duration": 108.18,
+    "timestamp": "2026-02-05T15:05:39.636770",
+    "parsed": {
+        "advertisements": [
+            {
+                "date": null,
+                "tags_section": "Sechstes Stück",
+                "text": "29"
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "1. Bey weme extra schöne frische Damaſcener\nMeertrauben ohne Kammern in billigem Preis\nund beliebiger Quantität zu haben, iſt im Be-\nrichthaus ohne Entgeldt zu vernehmen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "2. Ein Kuchin-Känſterlein; Item ein Schleif-\nStein mit einem Stock in billigem Preis, im\nBerichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "3. Bey Jungfr. Meyerin an der Huthgaß ſind\nfrische angelangte ſüſſe Pickings in billigem\nPreis zu haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "4. Im Gaſthof zur Blumen iſt guter alter Honig\ndie Maaß à 12 Batzen. Item Emdt à 12 Btz.\nder Centner. Ferner ſchöne gelbe Weyden in\nbilligem Preis zu haben."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "5. Bey weme ſchöne gelbe, weiſſe und ſchächtigte\nCanarien-Vögelein Männl. und Weibl. in bil-\nligem Preis zu haben, iſt im Berichthaus zu\nvernehmen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "6. Acht Saum guter rother Landwein à 10\nPfund der Saum. Solte er aber zugleich mit\neinander genommen werden à 9 Pfund, weil\nman das Stücklein gern auf einmal lären\nmöchte; Er wäre kauglich für einen Wirth in\nder Stadt oder auf der Landſchaft, wovon\nMuſter zu haben bey Hrn. Franz Lucas Lin-\nder dem Kuefer in der kleinen Stadt, leydet\naber nicht lang Verzug."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "7. Bey Frau Steinbrunn in klein Baſel ſind un-\ngefehr 3 Saum rother Crenzacher-Wein von\n1753, davon man Ohmenweis haben kan;\nſolte er aber mit einander genommen werden,\nſo wurde man ſehr billigen Preis machen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "8. Ein Stock ſchönes ferndriges unberegnetes\nEmdt gleich vor dem Riechemer-Thor, und\niſt ſich darum bey Hrn. Appellations-Rath\nRyhiner auf dem Adelberg anzumelden."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "9. Eine Büffet-Uhr mit einer Feder und ſchönen\nGehäus, die 8 Tag geht und Viertel repetirt,\nin billigem Preis, im Berichthaus zu erfra-\ngen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "10. Zehen Saum weiſſer Margräfer Wyler-Wein\nvon 1753. in billigem Preis, im Berichthaus\nzu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "11. Eine ſchöne nußbaumerne Bethladen für 2.\nPerſonen, mit Schrauben. Item eine Caſſe\nvon dickem eichenem Holz, ſchwarz angeſtri-\nchen mit einem extra guten Schloß und Schlen-\nken zu einem Maaſchloß mit eiſern Spangen\nwohl beſchlagen, am Deckel inwendig mit\nHaacken, auf einem grünen Fuß, à 6 Pfund.\nEin Gewicht-Bräter ſamt 2 Spiſſen, Seil,\nSchrauben, Stein und Zugehördt: Item\neine groſſe kupferne Caſſe derrolle faſt neu, dito\neine tiefe Küchlein-Pfanne; Zwo noch faſt neue\nRollen, wohl mit ſtarkem Eiſen verſehen ſamt\neiner Kette, Seil und Stein, alles in billi-\ngem Preis, im Berichthaus ohne Entgeldt zu\nerfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "12. Bey Meiſter Daniel Pfifter im Doctor-Gar-\nten ſind ſchöne Ranunkeln-Wurzen und auch\nGold-Lilien oder Narciſſus Indicus Jacobeus\nin billigem Preis, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "13. Ein modenfarbes tuchenes Kleid in billigem\nPreis, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "14. Bey ſchönem Wetter eingeſammeltes Heu und\ndito Emdt vom vorigen Jahr, in billigem\nPreis, im Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "15. Wo folgende Bücher zu haben, iſt im Be-\nrichthaus zu erfragen: Munsters Cosmogra-\nphie, Brandes allgemeine Chronica, Hedio-\nnis Kirchenhiſtorie, Joſephii Jüdiſche Geſchich-\nten, Sleidani Hiſtorie, alles wohl gebunden,\nim Berichthaus zu erfragen."
+            },
+            {
+                "date": null,
+                "tags_section": "Es wird zum Verkauf angetragen",
+                "text": "16. Bey"
+            }
+        ]
+    },
+    "score": {
+        "fuzzy": 0.95,
+        "cer": 0.044
+    },
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 5.0097692012786865,
-    "timestamp": "2025-05-23T11:13:09.725581",
-    "text": "{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1935-08-17\"],\n    \"sender_persons\": [\"null\"],\n    \"receiver_persons\": [\"Fritz Ritter\"]\n}",
-    "finish_reason": "stop"
-}

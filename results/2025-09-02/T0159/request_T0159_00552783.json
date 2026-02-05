@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 5.021196365356445,
-    "timestamp": "2025-09-03T21:10:36.976084",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Schürmann\",\n    \"first_name\": \"Klaus\"\n  },\n  \"publication\": {\n    \"title\": \"Die Ätiologie der diffusen hämorrhagischen Lebercirrhose\",\n    \"year\": 1959,\n    \"place\": \"Berlin\",\n    \"pages\": \"42\",\n    \"publisher\": \"Fak. Humboldt-Univ. Berlin\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"[Masch'schrivielfält.]\"\n  },\n  \"examination\": {\n    \"place\": \"Berlin\",\n    \"year\": 1959\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss. Berlin Univ. 1959 4°\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Leber-Cirrhose/ Diss\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

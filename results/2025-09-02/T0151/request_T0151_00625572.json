@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-2.0-flash",
-    "duration": 6.312254428863525,
-    "timestamp": "2025-09-05T10:56:35.679806",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"VAULX\",\n    \"first_name\": \"Jean de\"\n  },\n  \"publication\": {\n    \"title\": \"La Gure déclive, position de détente dans les adhérences pariéto-pulmonaires du sommet, non sectionnables au cours du pneumothoraах...\",\n    \"year\": 1938,\n    \"place\": \"Paris\",\n    \"pages\": \"52 p.\",\n    \"publisher\": \"A. Legrand\",\n    \"format\": \"In-8\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Paris\",\n    \"year\": 1936\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"publication_number\": \"12902\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 4.426231861114502,
-    "timestamp": "2025-04-10T08:12:47.545619",
-    "text": "```json\n{\n    \"letter_title\": [\"Verein für die Schiffahrt auf dem Oberrhein\"],\n    \"send_date\": [\"1932-10-10\"],\n    \"sender_persons\": [\"Jean Arey\"],\n    \"receiver_persons\": [\"Herrn Dr. Max Viscehr, Advokat\"]\n}\n```",
-    "finish_reason": "stop"
-}

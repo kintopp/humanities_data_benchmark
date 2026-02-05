@@ -1,8 +1,0 @@
-{
-    "provider": "genai",
-    "model": "gemini-1.5-pro",
-    "duration": 6.79656195640564,
-    "timestamp": "2025-03-05T18:04:16.741594",
-    "text": "```json\n{\n  \"letter_title\": [\"Kauf \\\"Rheinfelden\\\"\"],\n  \"send_date\": [\"1938-04-05\"],\n  \"sender_persons\": [\"M. Wetter\", \"Jeny Burgl\"],\n  \"receiver_persons\": [\"Basler Personenschiffahrtsgesellschaft\"]\n}\n```",
-    "finish_reason": "stop"
-}

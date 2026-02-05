@@ -1,0 +1,15 @@
+{
+    "fuzzy": 0.88,
+    "cer": 0.134,
+    "cost_summary": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "total_tokens": 0,
+        "input_cost_usd": 0.0,
+        "output_cost_usd": 0.0,
+        "total_cost_usd": 0.0
+    },
+    "model_id": "stanford-oval/churro-3B",
+    "benchmark_version": "0.4.0",
+    "benchmark_commit": "188508a8a"
+}

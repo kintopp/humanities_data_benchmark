@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 5.3075783252716064,
-    "timestamp": "2025-09-03T21:24:02.508242",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Weber\",\n    \"first_name\": \"Kurt\"\n  },\n  \"publication\": {\n    \"title\": \"Die wirtschaftlichen Verhältnisse des Kreises Ziegenhain\",\n    \"year\": 1913,\n    \"place\": \"Marburg\",\n    \"pages\": \"93\",\n    \"publisher\": \"Schaaf\",\n    \"format\": \"8°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Würzburg, Rechts- u. staatswiss.\",\n    \"year\": 1913\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss. v. 23. Dez. 1913, Ref. G. v. Schanz\",\n    \"publication_number\": \"U 13. 1433\",\n    \"subjects\": \"\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

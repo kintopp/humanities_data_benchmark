@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 7.12260365486145,
-    "timestamp": "2025-09-03T18:41:15.077660",
-    "text": "```json\n{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Simon\",\n    \"first_name\": \"Jacques-Claude\"\n  },\n  \"publication\": {\n    \"title\": \"Effet d'écran et charges nucléaires effectives dans les états spectroscopiques atomiques et les états de valence. Influence des charges nucléaires effectives σ et π dans les calculs LCAO-MO-SCF\",\n    \"year\": 1970,\n    \"place\": \"Aix-Marseille\",\n    \"pages\": \"124\",\n    \"publisher\": \"\",\n    \"format\": \"4°\",\n    \"reprint_note\": \"\"\n  },\n  \"examination\": {\n    \"place\": \"Aix-Marseille\",\n    \"year\": 1970\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"Diss.Q 1973,689\",\n    \"publication_number\": \"\",\n    \"subjects\": \"Atom-Struktur/Atom und Molekül/Molekül-Orbital-Theorie/Elektronen im Atom/ Diss Phys\"\n  }\n}\n```",
-    "finish_reason": "stop"
-}

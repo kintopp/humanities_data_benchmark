@@ -1,8 +1,0 @@
-{
-    "provider": "anthropic",
-    "model": "claude-opus-4-20250514",
-    "duration": 5.768605947494507,
-    "timestamp": "2025-05-23T11:18:26.982726",
-    "text": "Looking at this historical letter, I can extract the following information:\n\n```json\n{\n    \"letter_title\": [\"null\"],\n    \"send_date\": [\"1928-09-28\"],\n    \"sender_persons\": [\"Verein für die Schiffahrt auf dem Oberrhein\"],\n    \"receiver_persons\": [\"Dr. Max Vischer\"]\n}\n```",
-    "finish_reason": "stop"
-}

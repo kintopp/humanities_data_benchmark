@@ -1,8 +1,0 @@
-{
-    "provider": "mistral",
-    "model": "pixtral-large-latest",
-    "duration": 3.806389331817627,
-    "timestamp": "2025-09-25T20:43:08.627721",
-    "text": "{\n  \"type\": {\n    \"type\": \"Dissertation or thesis\"\n  },\n  \"author\": {\n    \"last_name\": \"Sriber\",\n    \"first_name\": \"André\"\n  },\n  \"publication\": {\n    \"title\": \"Dépistage et prophylaxie de la tuberculose dans les écoles de la Seine par l'emploi périodique des cuti- et percuti-réactions à la tuberculine\",\n    \"year\": 1930,\n    \"place\": \"Paris\",\n    \"pages\": \"\",\n    \"publisher\": \"A. Legrand\",\n    \"format\": \"8°\"\n  },\n  \"library_reference\": {\n    \"shelfmark\": \"\",\n    \"subjects\": \"\"\n  }\n}",
-    "finish_reason": "stop"
-}
