@@ -8,9 +8,54 @@ assessing the performance of large language models (LLMs) on humanities-related 
 designed as a resource for researchers and practitioners interested in systematically evaluating
 how well various LLMs perform on digital humanities (DH) tasks involving visual and text-like materials.
 
-> **ℹ Looking for benchmark results?**
-> This README provides an overview of the benchmark suite and explains how to use it.
-> For detailed test results and model comparisons, visit our [results dashboard](https://rise-services.rise.unibas.ch/benchmarks/).
+> **ℹ This is a fork** of [RISE-UNIBAS/humanities_data_benchmark](https://github.com/RISE-UNIBAS/humanities_data_benchmark) by the University of Basel's [RISE](https://rise.unibas.ch/) team. The original repository and its [results dashboard](https://rise-services.rise.unibas.ch/benchmarks/) contain the full benchmark suite with cloud model results.
+
+## Local MLX Model Benchmarking
+
+This fork adds support for running benchmarks against local vision-language models on Apple Silicon using [MLX](https://github.com/ml-explore/mlx). The goal is to evaluate whether small, local OCR models can match cloud API models on humanities document tasks — at zero cost.
+
+### What was added
+
+`scripts/local_mlx/` — a standalone runner with:
+
+- **Interactive model selection menu** listing all registered models with their compatible benchmarks, or `--model` / `--benchmark` CLI flags for scripted use
+- **Model registry** (`models.py`) defining 7 local models (Churro, Chandra, olmOCR, GLM-OCR, PaddleOCR, LightOnOCR, DeepSeek-OCR) with per-model prompts, temperatures, output formats, and compatible benchmarks
+- **Post-processing converters** (`converters.py`) that deterministically transform each model's native output (XML, Markdown, plain text) into the benchmark's expected JSON structure
+- **Standalone scoring** reimplemented from the benchmark classes so local models can be scored without cloud API credentials
+- **Memory monitoring** for Apple Silicon — logs process RSS and system memory pressure before/after each image, skips images automatically under critical pressure
+- **Output format** identical to the existing framework (`results/{date}/{test_id}/` with per-image JSON and `scoring.json`)
+
+### Results
+
+Tested on two benchmarks with [Churro](https://huggingface.co/stanford-oval/churro-3B) (a 3B-parameter model fine-tuned on 99K historical document pages):
+
+| Model | Benchmark | Fuzzy | CER | Cost |
+|-------|-----------|-------|-----|------|
+| Churro 3B 4-bit | Fraktur Adverts | **0.924** | **0.081** | $0.00 |
+| GPT-5.2 (best cloud) | Fraktur Adverts | 0.894 | 0.131 | $0.13 |
+| Churro 3B 8-bit | Medieval Manuscripts | 0.403 | 0.736 | $0.00 |
+| GPT-4.1 Mini (best cloud) | Medieval Manuscripts | 0.791 | 0.228 | $0.02 |
+
+On Fraktur OCR, the local 3B model outperforms the best cloud model. On medieval manuscripts (handwritten 15th-century German), the cloud model leads significantly — handwriting recognition requires more model capacity than printed Fraktur.
+
+See [`results/2026-02-05/TCHUR4B_fraktur/comparison.md`](results/2026-02-05/TCHUR4B_fraktur/comparison.md) for the full per-image breakdown.
+
+### Running local models
+
+```bash
+# Activate the MLX environment
+source /path/to/mlx-venv/bin/activate
+
+# Interactive mode
+python scripts/local_mlx/run.py
+
+# Or specify model and benchmark directly
+python scripts/local_mlx/run.py --model churro4 --benchmark fraktur_adverts --yes
+```
+
+See [`scripts/local_mlx/README.md`](scripts/local_mlx/README.md) for setup and model details.
+
+---
 
 ## What is Benchmarking and Why Should You Care?
 
@@ -500,9 +545,9 @@ The benchmark suite currently has several limitations that could be addressed in
 
 | Category | Limitation | Description |
 |----------|------------|-------------|
-| **Models** | Local/self-hosted models | Limited support for models that can be run locally |
-| **Capabilities** | Domain-specific fine-tuned models | Models specifically optimized for historical research not included |
-| | OCR-specialized models | Models with particular strength in document processing/OCR not included |
+| **Models** | Local/self-hosted models | Addressed in this fork via `scripts/local_mlx/` for Apple Silicon |
+| **Capabilities** | Domain-specific fine-tuned models | Churro (historical OCR) tested in this fork; more models planned |
+| | OCR-specialized models | Six OCR-specialized models registered; Churro tested so far |
 | | Multilingual capabilities | Systematic testing across different languages not covered |
 | **Benchmark Coverage** | Limited benchmark diversity | Currently focused on document analysis; missing art history, archaeology, musicology domains |
 | | Language coverage | Primarily German and English; limited coverage of other European languages and non-Western scripts |
