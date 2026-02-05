@@ -326,7 +326,7 @@ def score_fraktur_image(parsed: dict, ground_truth, image_name: str) -> dict:
 
     avg_f = sum(r["similarity"] for r in results) / len(results)
     avg_c = sum(r["cer"] for r in results) / len(results)
-    return {"fuzzy": round(avg_f, 2), "cer": round(avg_c, 3)}
+    return {"fuzzy": round(avg_f, 3), "cer": round(avg_c, 3)}
 
 
 SCORE_FUNCTIONS = {
@@ -341,19 +341,20 @@ SCORE_FUNCTIONS = {
 
 def resize_image_to_fit(image_path: str, max_size: int) -> str:
     """Resize an image if its longest side exceeds max_size. Returns path (may be temp)."""
-    img = Image.open(image_path)
-    w, h = img.size
-    if max(w, h) <= max_size:
-        return image_path
+    with Image.open(image_path) as img:
+        w, h = img.size
+        if max(w, h) <= max_size:
+            return image_path
 
-    scale = max_size / max(w, h)
-    new_w, new_h = int(w * scale), int(h * scale)
-    img = img.resize((new_w, new_h), Image.LANCZOS)
+        scale = max_size / max(w, h)
+        new_w, new_h = int(w * scale), int(h * scale)
+        resized = img.resize((new_w, new_h), Image.LANCZOS)
 
     # Save to a temp file (outside the images dir to avoid pickup)
     fd, tmp_path = tempfile.mkstemp(suffix=".png", prefix="mlx_resize_")
     os.close(fd)
-    img.save(tmp_path)
+    resized.save(tmp_path)
+    resized.close()
     log.info(f"  Resized {w}x{h} → {new_w}x{new_h}")
     return tmp_path
 
@@ -430,19 +431,21 @@ def run_inference(model, processor, image_path: str, model_cfg: dict) -> tuple[s
         "verbose": False,
     }
 
-    # Temperature (mlx_vlm uses "temp" kwarg internally)
     if model_cfg["temperature"] is not None:
-        kwargs["temp"] = model_cfg["temperature"]
+        kwargs["temperature"] = model_cfg["temperature"]
 
-    start = time.time()
-    result = generate(
-        model,
-        processor,
-        formatted_prompt,
-        [img],
-        **kwargs,
-    )
-    duration = time.time() - start
+    try:
+        start = time.time()
+        result = generate(
+            model,
+            processor,
+            formatted_prompt,
+            [img],
+            **kwargs,
+        )
+        duration = time.time() - start
+    finally:
+        img.close()
 
     # Handle both GenerationResult objects and plain strings
     text = result.text if hasattr(result, "text") else str(result)
@@ -622,33 +625,21 @@ def confirm_run(selected_models: list[str], benchmark_filter: str | None) -> boo
 def run_model_on_benchmark(
     model_key: str,
     benchmark_name: str,
+    model,
+    processor,
     date_str: str,
     benchmark_version: str,
     benchmark_commit: str,
 ):
-    """Run a single model on a single benchmark. Returns aggregate score dict."""
-    from mlx_vlm import load
-
+    """Run a pre-loaded model on a single benchmark. Returns aggregate score dict."""
     cfg = MODEL_REGISTRY[model_key]
     test_id = get_test_id(model_key, benchmark_name)
-    model_path = get_model_path(model_key)
     results_dir = RESULTS_DIR / date_str
 
     images = get_image_files(benchmark_name)
     if not images:
         log.warning(f"No images found for {benchmark_name}")
         return None
-
-    log.info(f"Loading model {cfg['name']} from {model_path}...")
-    load_start = time.time()
-    try:
-        model, processor = load(model_path)
-    except Exception as e:
-        log.error(f"Failed to load model {cfg['name']}: {e}")
-        return None
-    load_time = time.time() - load_start
-    log.info(f"  Model loaded in {load_time:.1f}s")
-    log_memory("after load")
 
     all_scores = []
 
@@ -668,25 +659,26 @@ def run_model_on_benchmark(
             all_scores.append({"fuzzy": 0.0, "cer": 1.0})
             continue
 
-        # Resize if needed
+        # Resize if needed, with try/finally to ensure temp file cleanup
         actual_path = image_path
-        if cfg["max_image_size"]:
-            actual_path = resize_image_to_fit(image_path, cfg["max_image_size"])
-
-        # Run inference
         try:
-            raw_text, duration = run_inference(model, processor, actual_path, cfg)
-        except Exception as e:
-            log.error(f"  Inference failed for {basename}: {e}")
-            raw_text = ""
-            duration = 0.0
+            if cfg["max_image_size"]:
+                actual_path = resize_image_to_fit(image_path, cfg["max_image_size"])
+
+            # Run inference
+            try:
+                raw_text, duration = run_inference(model, processor, actual_path, cfg)
+            except Exception as e:
+                log.error(f"  Inference failed for {basename}: {e}")
+                raw_text = ""
+                duration = 0.0
+        finally:
+            # Clean up resized temp file
+            if actual_path != image_path and os.path.exists(actual_path):
+                os.remove(actual_path)
 
         # Check memory after inference
         log_memory(f"{basename} post")
-
-        # Clean up resized temp file
-        if actual_path != image_path and os.path.exists(actual_path):
-            os.remove(actual_path)
 
         # Post-process to benchmark JSON
         try:
@@ -743,6 +735,8 @@ def run_model_on_benchmark(
 
 def run_selected_models(selected_models: list[str], benchmark_filter: str | None = None):
     """Run all selected models on their compatible benchmarks."""
+    from mlx_vlm import load
+
     benchmark_version = get_benchmark_version()
     benchmark_commit = get_git_commit()
     date_str = datetime.now().strftime("%Y-%m-%d")
@@ -759,15 +753,29 @@ def run_selected_models(selected_models: list[str], benchmark_filter: str | None
         log.info(f"Model: {cfg['name']} ({cfg['hf_id']})")
         log.info(f"{'='*60}")
 
+        # Load model once for all benchmarks
+        model_path = get_model_path(model_key)
+        log.info(f"Loading model from {model_path}...")
+        load_start = time.time()
+        try:
+            model, processor = load(model_path)
+        except Exception as e:
+            log.error(f"Failed to load model {cfg['name']}: {e}")
+            continue
+        log.info(f"  Model loaded in {time.time() - load_start:.1f}s")
+        log_memory("after load")
+
         for bm in benchmarks:
             result = run_model_on_benchmark(
-                model_key, bm, date_str, benchmark_version, benchmark_commit,
+                model_key, bm, model, processor,
+                date_str, benchmark_version, benchmark_commit,
             )
             if result:
                 all_results.append(result)
 
         # Free model memory before loading next
         log.info(f"Unloading {cfg['name']}...")
+        del model, processor
         gc.collect()
 
     # Print summary table

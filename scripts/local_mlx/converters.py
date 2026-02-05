@@ -9,8 +9,11 @@ fraktur_adverts expects:
     {"advertisements": [{"date": str|None, "tags_section": str|None, "text": str}]}
 """
 
+import logging
 import re
 import xml.etree.ElementTree as ET
+
+log = logging.getLogger(__name__)
 
 
 # ---------------------------------------------------------------------------
@@ -51,7 +54,8 @@ def _try_parse_churro_xml(raw: str) -> ET.Element | None:
         # Try wrapping
         try:
             return ET.fromstring(f"<root>{raw}</root>")
-        except ET.ParseError:
+        except ET.ParseError as e:
+            log.warning(f"XML parse failed (wrapped): {e} — falling back to text extraction")
             return None
     else:
         try:
@@ -61,7 +65,8 @@ def _try_parse_churro_xml(raw: str) -> ET.Element | None:
             raw = re.sub(r"<\?xml[^>]*\?>", "", raw).strip()
             try:
                 return ET.fromstring(f"<root>{raw}</root>")
-            except ET.ParseError:
+            except ET.ParseError as e:
+                log.warning(f"XML parse failed (after decl strip): {e} — falling back to text extraction")
                 return None
 
 

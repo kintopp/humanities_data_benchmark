@@ -139,8 +139,9 @@ def get_test_id(model_key: str, benchmark_name: str) -> str:
 
 
 def get_model_path(model_key: str) -> str:
-    """Return local path if available, otherwise HuggingFace ID for download."""
+    """Return local path if it exists on disk, otherwise HuggingFace ID for download."""
+    import os
     model = MODEL_REGISTRY[model_key]
-    if model["local_path"]:
+    if model["local_path"] and os.path.isdir(model["local_path"]):
         return model["local_path"]
     return model["hf_id"]
